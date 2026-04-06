@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe C:/Users/chenx/Desktop/my_knowledge_base/tools/*)",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe C:/Users/chenx/Desktop/my_knowledge_base/vault_lint.py*)",
+      "WebSearch",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/semantic_search.py --rebuild)",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/search.py \"VLGC freight rate\" --top 3)",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/semantic_search.py --query \"What drives PDH margins in China?\" --top 3)",
+      "Skill(schedule)"
+    ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe C:/Users/chenx/Desktop/my_knowledge_base/tools/post_conversation.py",
+            "timeout": 15000
+          }
+        ]
+      }
+    ]
+  }
+}

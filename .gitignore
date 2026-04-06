@@ -1,0 +1,16 @@
+# Caches & indexes (rebuildable)
+.chroma_db/
+.search_index/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Miner progress (rebuildable)
+00_Inbox/extracts/
+00_Inbox/.miner_progress.json
+00_Inbox/.processed.json
+
+# Large source files (16MB, keep local only)
+00_Inbox/sources/
