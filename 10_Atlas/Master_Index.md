@@ -40,6 +40,8 @@ status: evergreen
 
 - [[Geographical Arbitrage]] — Netback equation, arb hypothesis formation, arb window mechanics, route optimization
 - [[US Asia LPG Arb Framework]] — USGC-FEA netback model, MB vs AFEI spread triggers, freight/canal scenario matrix, hedge architecture
+- [[Trader Daily Workflow]] — Asia-timezone daily schedule, Platts MOC window, EOD position reporting, junior trader guidance
+- [[Refinery Trader Career Roadmap]] — Three-year development plan, refinery seller perspective, skill progression
 
 ## `40_Entities/` — Counterparties, Infrastructure & Data Providers
 
@@ -123,5 +125,5 @@ All tools live in `tools/`. Python path: `C:\Users\chenx\AppData\Local\Programs\
 - **Title**: LPG Trading Handbook: Market Dynamics and Global Logistics Strategies
 - **Extracted**: 2026-04-06
 - **Raw Notes**: 26 notes in `00_Inbox/notes/`
-- **Raw Sources**: 287 source full texts in `00_Inbox/sources/` (16MB)
+- **Raw Sources**: 300 source full texts in `00_Inbox/sources/`
 - **Metadata**: `00_Inbox/metadata.json`

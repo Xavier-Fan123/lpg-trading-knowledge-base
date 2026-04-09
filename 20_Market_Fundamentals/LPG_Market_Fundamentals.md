@@ -379,6 +379,34 @@ LPG is overwhelmingly a **must-take byproduct**, not a demand-driven commodity. 
 
 This byproduct nature creates a fundamental **supply inelasticity**: producers cannot meaningfully increase or decrease LPG output in response to LPG prices alone. Production volumes are dictated by natural gas demand and refinery throughput economics, not LPG market signals. The marginal cost of LPG production is effectively zero once the parent process is running.
 
+## FCC Propylene By-product Dynamics
+
+Fluid Catalytic Cracking (FCC) units in refineries produce propylene as a **price-insensitive by-product** — output is driven by refinery throughput economics, not propylene market signals.
+
+### FCC Propylene Yield and Scale
+- FCC operates at ~535°C with catalytic cracking of heavy hydrocarbons
+- General FCC reaction: CₙHₘ → C₃H₈ (propane) + C₄H₁₀ (butane) + other hydrocarbons
+- Typical propylene yield from FCC: **3-7% of crude throughput** (depending on catalyst and severity)
+- China FCC propylene share: ~**15-20% of total propylene capacity**
+
+### Impact on Propylene Market
+- FCC propylene has **near-zero marginal cost** — as long as refineries run, propylene is "free"
+- This creates a structural **price floor competition** with PDH and CTO/MTO routes
+- During refinery turnaround seasons (typically spring/autumn), FCC propylene supply drops → spot propylene prices get support
+- During high crude runs (strong gasoline/diesel demand), FCC propylene floods market → pressures propylene prices
+
+### Refinery Utilization as Propylene Signal
+- Chinese refinery utilization typically runs 75-85%
+- Diesel demand declining (~500 kbd displaced by electric/LNG trucks in 2026)
+- Gasoline demand declining (~540 kbd displaced by EVs in 2026)
+- Long-term risk: refinery rationalization reduces FCC propylene supply, potentially supporting on-purpose routes (PDH, CTO)
+- Up to 101 refineries globally (21% of capacity / 18.4 mbd) at risk of closure by 2035
+
+### Monitoring
+- Track: Chinese refinery utilization rate (weekly, SCI/CNOOC data)
+- Track: Refinery turnaround schedule (seasonal, semi-annual)
+- See [[Chinese PDH Margin]] for propylene supply context, [[CTO_MTO_Economics]] for competing routes
+
 ## Propane vs Butane: Demand Decoupling
 
 Propane and butane, while co-produced, serve structurally different end-markets:

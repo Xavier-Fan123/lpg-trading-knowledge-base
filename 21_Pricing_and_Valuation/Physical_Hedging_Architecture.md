@@ -87,6 +87,40 @@ status: incubating
 - **Benchmark used: TTF ICIS Heren Day Ahead for natural gas pricing** `[specification]`
 - **September 2022 daily closing prices for TTF Heren Day Ahead range from 158.73 EUR/MWh to 250.00 EUR/MWh** `[price]`
 
+### From `5e0714e8.txt` (2026-04-09)
+- **UOP Oleflex process operates at temperatures of 550°C to 620°C** `[specification]`
+- **Lummus Catofin process operates at temperatures of 600°C to 700°C** `[specification]`
+- **UOP Oleflex process operates at pressure of 2.0–3.0 MPa** `[specification]`
+- **Lummus Catofin process operates at pressure of 0.1–0.5 MPa** `[specification]`
+- **UOP Oleflex has propane conversion rate of 40%–88%** `[specification]`
+- **Lummus Catofin has propane conversion rate of 48%–65%** `[specification]`
+- **UOP Oleflex has propylene selectivity of 89%–91%** `[specification]`
+- **Lummus Catofin has propylene selectivity of 86%–90%** `[specification]`
+- **UOP Oleflex catalyst service life ranges from 2 to 7 days before full regeneration** `[specification]`
+- **Lummus Catofin regeneration cycle operates every 15 to 30 minutes** `[specification]`
+- **Chinese PDH terminals store LPG at approximately -42°C** `[specification]`
+- **BOG gasification loss accounts for 0.05% to 0.15% of total throughput at 600 KTA plant scale** `[rate]`
+- **DCE PP futures trading unit is 5 metric tons per lot** `[specification]`
+- **DCE PP futures minimum tick size is 1 CNY/MT** `[specification]`
+- **DCE PP futures daily price limit is ±4% of previous settlement** `[specification]`
+- **CNH-Fixed vs USD-SOFR swap mean rate is 1.43% for 1-year tenor** `[rate]`
+- **CNH-Fixed vs USD-SOFR swap mean rate is 1.38% for 2-year tenor** `[rate]`
+- **CNH-Fixed vs USD-SOFR swap mean rate is 1.41% for 3-year tenor** `[rate]`
+- **CNH-Fixed vs USD-SOFR swap mean rate is 1.56% for 5-year tenor** `[rate]`
+- **Sulfur impurity threshold for PDH-grade propane is 100 ppm; sulfur poisoning irreversibly damages platinum or chromium catalyst sites** `[specification]`
+
+### From `8df57255.txt` (2026-04-09)
+- **SVCE maintains Net Open Position (NOP) portfolio hedge levels within specified tolerance bands as outlined in Table 1** `[mechanism]`
+- **Natural gas hedges are authorized specifically for managing risks associated with Board-approved natural gas tolling agreements** `[mechanism]`
+- **Resolution 2016-15 delegates authority to the CEO to execute confirmation agreements with energy service providers with whom SVCE has executed Master Agreements** `[mechanism]`
+- **Contract origination, commercial approval, confirmation, legal review, invoice validation, and transaction auditing must be performed by separate staff or contractor - no single staff member shall perform all functions on any transaction** `[mechanism]`
+- **Speculative transactions are prohibited, defined as buying energy more than forecasted load plus reasonable planning reserves or selling energy or environmental attributes not yet owned by SVCE** `[mechanism]`
+- **Financial derivatives such as futures, swaps, options, and swaptions for speculative purposes are prohibited** `[mechanism]`
+- **Authorized transactions include: electric energy, Resource adequacy products, Storage capacity, Transmission products, ancillary services, CRRs, renewable energy, Carbon-free energy, RECs, basis transactions, greenhouse gas emissions allowances, and tolling agreements** `[mechanism]`
+- **SVCE minimizes financial exposure to spot market wholesale electricity prices by hedging its NOP according to NOP tolerance bands** `[mechanism]`
+- SVCE will ladder its long-term purchases of renewable energy to diversify exposure to market conditions and reduce concentration risk `[mechanism]`
+- **SVCE participates in CAISO wholesale markets as a Load Serving Entity (LSE)** `[entity_detail]`
+
 ## Core Problem
 
 A physical LPG cargo of **44,000 MT** on a VLGC represents a flat price exposure of approximately **$22-33 million** (at $500-750/mt). From the moment of loading to discharge (25-50 days), the trader holds an unhedged long position exposed to price moves of $20-50/mt or more. The hedging architecture must neutralize this risk while preserving the commercial margin.

@@ -51,7 +51,7 @@ Where:
 - Demurrage events occur on **20-30% of VLGC voyages**, adding $50,000-200,000 per event
 - A $30/mt adverse move on 44,000 MT cargo = **$1.32 million margin call**
 - AFEI has displaced [[Saudi Aramco Contract Price|Saudi CP]] as the primary spot reference for Asian LPG
-- [[Enterprise Products Partners]] operates the largest LPG export terminal on the Houston Ship Channel
+- Enterprise Products Partners operates the largest LPG export terminal on the Houston Ship Channel — see [[US Gulf Coast Export Terminals]]
 
 ### Analytical Assumptions (interpretive)
 

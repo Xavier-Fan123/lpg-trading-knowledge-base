@@ -289,6 +289,28 @@ status: incubating
 - **Minimum width of pipeline island shall be 1 m** `[specification]`
 - **Reduce the vapour pressure in the storage vessel up to 1.5 kg/cm² pressure** `[mechanism]`
 
+### From `f83df0be.txt` (2026-04-09)
+- **LPG density in liquid state ranges from 0.525 to 0.580 @ 15°C** `[specification]`
+- **LPG at atmospheric pressure is 1.5 to 2.0 times heavier than air** `[specification]`
+- **LPG has an explosive range of 1.8% to 9.5% volume of gas in air** `[specification]`
+- **LPG liquid viscosity is approximately 0.3 CS @ 45°C** `[specification]`
+- **Coefficient of expansion for LPG is approximately 0.00237 per °C** `[specification]`
+- **At liquid full condition, container pressure rises by approximately 14 to 15 kg/sq.cm for each degree centigrade expansion** `[specification]`
+- **Minimum of 3 storage vessels required for LPG in an installation** `[mechanism]`
+- **Minimum distance between vessel and kerb wall shall be the diameter of vessel or 5 meters, whichever is less** `[specification]`
+- **Concrete floor under vessels graded to minimum slope of 1:100** `[specification]`
+- **Kerb wall height minimum 30 cm but shall not exceed 60 cm** `[specification]`
+- **Spillage diversion area distance equals diameter of nearest vessel or 15 m, whichever is more** `[specification]`
+- **Maximum 6 vessels per storage group** `[specification]`
+- **Road separation between groups minimum width 3.5 m on all four sides** `[specification]`
+- **Tank truck turning radius minimum 20 m** `[specification]`
+- **Maximum 8 LPG tank truck bays restricted to one group** `[specification]`
+- **Separation distance between tank truck gantry groups minimum 30 m** `[specification]`
+- **Maximum number of gantries in a premise shall not exceed two** `[specification]`
+- **Pipeline island minimum width 1 m for tank truck discharge protection** `[specification]`
+- **High-level alarm physical check performed by raising bulk level to 85% capacity once a year** `[mechanism]`
+- **Water drain point for LPG vessels shall be at least 3 m away from shadow of storage vessels** `[specification]`
+
 ## Vessel Specifications
 
 The **Very Large Gas Carrier (VLGC)** is the workhorse of the seaborne LPG trade. Key specifications:

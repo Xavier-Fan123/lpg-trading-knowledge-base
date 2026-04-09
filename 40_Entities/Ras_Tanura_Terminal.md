@@ -18,6 +18,19 @@ Ras Tanura is **Saudi Aramco's primary crude oil and LPG export terminal**, loca
 - **Juaymah**, located approximately 20 kilometers south of Ras Tanura, serves as a complementary LPG and NGL loading facility, providing redundancy and additional throughput capacity.
 - Combined, the two terminals can handle loading operations for dozens of LPG cargoes per month under normal operating conditions.
 
+## Juaymah NGL Facility
+
+- **Juaymah** is the world's **7th-largest LPG export terminal**, with average monthly exports exceeding **450,000 tonnes** (propane/butane roughly evenly split) over the past two years.
+- India absorbs at least **60% of Juaymah's annual LPG exports**; the facility supplies approximately **15% of India's total LPG imports**.
+- On **23 February 2026**, structural damage occurred to the delivery segment carrying propane and butane pipelines, triggering a **force majeure declaration** on 25 February 2026.
+- The incident created a projected **400,000 tonne export loss** for Feb–Mar 2026, with all March cargo acceptances from Saudi Aramco cancelled.
+- The outage could remove as much as **74% of Saudi Arabian exports** through March, creating minimum shortfalls of 450,000 tonnes in Asian markets.
+
+## Capacity
+
+- Ras Tanura whole site: **550,000 bpd** capacity.
+- Freight benchmark: latest VLGC fixture traded at **$80/mt on Ras Tanura–Chiba basis** (Feb 2026 reference).
+
 ## Strait of Hormuz Dependency
 
 - All cargoes loaded at Ras Tanura and Juaymah must transit the **[[Strait of Hormuz]]** to reach open ocean, creating a critical chokepoint dependency.

@@ -7,7 +7,27 @@
       "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/semantic_search.py --rebuild)",
       "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/search.py \"VLGC freight rate\" --top 3)",
       "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe tools/semantic_search.py --query \"What drives PDH margins in China?\" --top 3)",
-      "Skill(schedule)"
+      "Skill(schedule)",
+      "Bash(gh auth:*)",
+      "Bash(git config:*)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(/c/Program Files/GitHub CLI/gh.exe auth:*)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" repo create lpg-trading-knowledge-base --public --source=. --remote=origin --push)",
+      "Bash(wc -w 20_Market_Fundamentals/*.md 21_Pricing_and_Valuation/*.md 22_Physical_Logistics/*.md 30_Trading_Strategies/*.md 40_Entities/*.md)",
+      "Bash(PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe:*)",
+      "Bash(notebooklm:*)",
+      "Bash(PYTHONIOENCODING=utf-8 notebooklm source:*)",
+      "Bash(rm:*)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -c ':*)",
+      "Bash(grep -l \"propylene\\\\|PP\\\\|FCC\\\\|CTO\\\\|MTO\" \"/c/Users/chenx/Desktop/my_knowledge_base/00_Inbox/sources/\"*.txt)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -m pip install gpt-researcher)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -m pip install tavily-python)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -m pip install --force-reinstall torch --index-url https://download.pytorch.org/whl/cpu)",
+      "Bash(ls:*)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -m pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu)",
+      "Bash(/c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe -m pip install langchain-huggingface)"
     ]
   },
   "hooks": {

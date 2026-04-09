@@ -332,6 +332,26 @@ LPG quality risks include:
 - **H2S contamination**: Particularly from Middle East origin cargoes; spec is typically <3 ppm
 - **Off-spec consequences**: Buyer may reject cargo, claim price discount, or require blending. Seller liable for re-nomination or alternative supply
 
+## LPG Product Quality Specifications
+
+Standard commercial propane specifications (reference: California Code Regs. Tit. 13, § 2292.6; ASTM test methods):
+
+| Parameter | Spec | Test Method |
+|-----------|------|-------------|
+| Propane content | ≥85.0 vol% | ASTM D 2163 |
+| Vapor pressure @100°F | ≤208 psig | ASTM D 1267 / D 2598 |
+| Volatility (95% evap. temp) | ≤-37°F | ASTM D 1837 |
+| Butanes | ≤5.0 vol% | ASTM D 2163 |
+| Butenes | ≤2.0 vol% | ASTM D 2163 |
+| Pentenes and heavier | ≤0.5 vol% | ASTM D 2163 |
+| Propene | ≤10.0 vol% | ASTM D 2163 |
+| Residue on evap. (100 ml) | ≤0.05 ml | ASTM D 2158 |
+| Copper strip corrosion | No. 1 max | ASTM D 1838 |
+| Total sulfur | ≤80 ppmw | ASTM D 2784 |
+| Moisture content | pass | ASTM D 2713 |
+
+**Trading relevance**: Off-spec cargoes (e.g., high sulfur, excess olefins) face price discounts or rejection. PDH feedstock requires tighter specs on C4+ content. Middle East cargoes may carry elevated H2S. Buyers typically specify quality in the Sales & Purchase Agreement referencing GPA/ASTM standards.
+
 ## Reliquefaction Failure
 
 During transit, LPG cargo generates **boil-off gas (BOG)** as heat ingress causes evaporation:

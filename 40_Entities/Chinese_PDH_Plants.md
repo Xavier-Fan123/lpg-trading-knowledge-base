@@ -17,6 +17,20 @@ Propane Dehydrogenation (PDH) plants in China are **dedicated petrochemical faci
 - Unlike steam crackers, which can switch between naphtha, ethane, and LPG feeds, **PDH plants cannot switch feedstocks**. They must consume propane regardless of price.
 - This inflexibility makes PDH plants a source of **inelastic demand**, meaning they continue purchasing propane even when margins compress, until margins turn sufficiently negative to justify temporary shutdowns.
 
+## PDH Technology Comparison
+
+| Parameter | CATOFIN (Lummus) | OLEFLEX (UOP Honeywell) |
+|-----------|-----------------|------------------------|
+| Catalyst | Chromium-oxide | Platinum-based |
+| Reactor type | Horizontal fixed-bed, parallel | Vertical moving-bed, series |
+| Operating temp | >600°C | >600°C |
+| Operating pressure | ~1 bar | ~1 bar |
+| Propane conversion | ~50% per pass | ~40% per pass |
+| Propylene selectivity | ~90% | ~90% |
+| Conversion factor | 1.18–1.22 mt propane per mt propylene | 1.18–1.22 mt propane per mt propylene |
+
+Each world-scale PDH unit (~600 kt propylene/year) requires approximately **730 kt/year of propane** feedstock.
+
 ## Impact on Global LPG Pricing
 
 - PDH plant **operating rates (run-rates)** are a critical signal for the [[AFEI Benchmark]]. When Chinese PDH margins are healthy, high run-rates pull propane imports into Asia, supporting AFEI levels.
@@ -31,8 +45,11 @@ Propane Dehydrogenation (PDH) plants in China are **dedicated petrochemical faci
 
 ## Capacity and Outlook
 
-- China's installed PDH capacity has grown from near-zero in 2010 to over 20 million tonnes per year of propylene output capacity.
+- China's installed PDH capacity has grown from near-zero in 2010 to over **25 million tonnes per year** of propylene output capacity (SCI, Sublime China Information).
+- China's propane consumption reached approximately **96 million tonnes annually** (Chinese customs data).
+- Key operators: **Oriental Energy (Donghua Energy)**, **Hengli Petrochemical**, **Wanhua Chemical** — collectively invested in multi-billion-dollar PDH facilities.
 - Additional capacity continues to be commissioned, though the pace of new builds is moderating as margins tighten and feedstock competition increases.
+- Saudi Arabia also operates 4 PDH plants with combined 1,780 KTA propylene capacity (NATPET, Al-Waha on CATOFIN; APC, SPC on OLEFLEX).
 
 ## Associated Risks
 
