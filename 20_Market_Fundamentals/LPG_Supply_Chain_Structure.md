@@ -301,3 +301,10 @@ This integration compresses margins for pure intermediaries and shifts the value
 - **Freight rate volatility**: VLGC rate spikes can invert arbitrage economics mid-voyage, turning profitable cargoes into losses -- see [[Basis Risk Management]] for freight exposure hedging
 - **Counterparty and credit risk**: Supply chain integration concentrates counterparty exposures; failure of a key logistics provider can strand cargoes
 - **Panama Canal transit risk**: Canal restrictions (drought, maintenance, congestion) force rerouting via Cape of Good Hope, adding 15-25 days and significant freight cost -- see [[Demurrage and Laytime]]
+
+
+## Q&A (2026-04-09 14:09)
+
+**Q:** What is the SOP for China main LPG receiving terminals?
+
+**A:** China LPG receiving terminal SOP follows 7 stages: (1) Pre-arrival T-7: NOR, customs/CIQ pre-filing, tank capacity confirmation, berth scheduling; (2) Berthing: pilot/tug, SIGTTO ship-shore safety checklist, ESD test; (3) Pre-discharge: opening gauges (ship+shore), GC sampling for purity/sulfur/moisture; (4) Discharge: ship submerged pumps at 1,000-2,500 MT/hr, vapor return balance, 36-72hr for full VLGC; (5) Post-discharge: line stripping, closing gauges, 0.3-0.5% manifest error tolerance, CIQ weight certificate; (6) Storage: fully refrigerated tanks at -42C for propane, BOG reliquefaction, segregated propane/butane; (7) Distribution: 40-60% pipeline to PDH plants, 30-40% truck, 10-20% coastal reloading.

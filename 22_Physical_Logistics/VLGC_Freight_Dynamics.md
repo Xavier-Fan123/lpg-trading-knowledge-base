@@ -311,6 +311,28 @@ status: incubating
 - **High-level alarm physical check performed by raising bulk level to 85% capacity once a year** `[mechanism]`
 - **Water drain point for LPG vessels shall be at least 3 m away from shadow of storage vessels** `[specification]`
 
+### From `441298be.txt` (2026-04-09)
+- **VLGC vessels typically carry between 70,000 and 84,000 cubic meters of LPG** `[specification]`
+- **VLGC vessels require deep-water berths with drafts generally ranging from 12 to 15 meters** `[specification]`
+- **Singapore Jurong Port Terminal berths accommodate vessels with up to 15 meters of draught, with 7 berths serving petroleum products, chemicals, base oils, gases, and LPG** `[entity_detail]`
+- **Tianjin Xingang Passenger Terminal features berths of 8–12 meters depth** `[specification]`
+- **Under-keel clearance (UKC) requirements typically 1.0–1.5 meters for LPG terminals** `[specification]`
+- **Tianjin's hinterland covers over 5 million km² and 52% of China's total land area** `[entity_detail]`
+- **All LPG import cargoes must comply with pre-arrival electronic declaration requirements at least 24 hours before vessel arrival** `[mechanism]`
+- **LPG is classified as IMDG Code Class 2.1 — Flammable Gas** `[mechanism]`
+- **China's MOT Regulation 2024 on Safety Supervision and Management of Ships Carrying Dangerous Goods came into effect on March 1, 2025** `[mechanism]`
+- Discharge rates for VLGCs at major Chinese terminals typically range from 2,000 to 4,000 m³/hour, with total discharge times of 20–40 hours `[rate]`
+- Liquid arms for discharge are typically DN250 or DN300 `[specification]`
+- Vapor return line pressure must be maintained within 0.05–0.15 MPa gauge `[specification]`
+- **Refrigerated LPG storage tanks typically have capacity of 30,000 – 100,000 m³** `[specification]`
+- **Refrigerated LPG storage tank design temperature typically -50°C for propane and -10°C for butane** `[specification]`
+- **Refrigerated LPG storage tank design pressure near atmospheric 0.02–0.05 MPa** `[specification]`
+- **Boil-off rate for refrigerated LPG storage tanks is 0.05–0.08% of volume per day** `[specification]`
+- **Vopak Gas Terminal at Singapore's Jurong Port operates an LPG facility of approximately 80,000 cbm** `[entity_detail]`
+- **QIXING 60 CBM ASME-standard propane/butane storage tanks have design pressure 1.77 MPa, working pressure 1.61 MPa, material Q345R carbon steel, design life 20 years** `[specification]`
+- **Tianjin Port's Sinochem International Dangerous Goods Logistics Center has container and general cargo handling capacity of approximately 95,000 TEU/year** `[entity_detail]`
+- **SHACMAN 25CBM LPG bobtail truck features 25 CBM tank with Q345R steel (design pressure 1.61 MPa, testing pressure 2.21 MPa), WEICHAI WP10.375E50 engine (375 HP, Euro 5 emission), YQB15-5 gas pump (15 m³/hour flow rate), 24V electrical system, 15-meter hose reel** `[specification]`
+
 ## Vessel Specifications
 
 The **Very Large Gas Carrier (VLGC)** is the workhorse of the seaborne LPG trade. Key specifications:

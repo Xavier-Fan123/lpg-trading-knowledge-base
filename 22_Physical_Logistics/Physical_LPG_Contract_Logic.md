@@ -298,6 +298,28 @@ status: incubating
 - **Final invoice based on contracted price as per Sales and Purchase Agreement in force at time Safekeeping Receipts (SKR) are issued** `[mechanism]`
 - **Shipping documents include: Pro-forma Invoice, Certificate of Origin, Packing list, Insurance Cover Certificate & Insurance Policy, Pre-Inspection certificate, Bill of lading, and Seller's Final Commercial Invoice** `[mechanism]`
 
+### From `f740454b.txt` (2026-04-09)
+- **Port of Tianjin has 217 berths total, with 140 production berths as of 2010** `[specification]`
+- **Port of Tianjin land area is 121 km² with total jurisdictional area of 260 km²** `[specification]`
+- **Port of Tianjin employed 20,000 people as of 2008** `[entity_detail]`
+- **Sinochem International Dangerous Goods Logistics Center at Tianjin handles containers with capacity of 95,000 TEU/year** `[volume]`
+- **Tianjin Xingang Passenger Terminal has terminal area of 15,000 m² with 3 berths of 8–12 m depth** `[specification]`
+- **SHACMAN 25CBM LPG bobtail truck has tank capacity of 25 CBM with loading capacity of 10.5 tons** `[specification]`
+- **SHACMAN 25CBM LPG tank design pressure is 1.61 MPa with testing pressure of 2.21 MPa** `[specification]`
+- **SHACMAN 25CBM LPG bobtail truck YQB15-5 gas pump has flow rate of 15 m³/h with ultimate pressure of 1.6 MPa** `[specification]`
+- **SHACMAN 25CBM LPG bobtail truck powered by WEICHAI WP10.375E50 engine delivering 375 horsepower at 1,900 rpm with torque of 1,800 N·m** `[specification]`
+- **SHACMAN 25CBM LPG bobtail truck payload ranges between 10,500 kg and 12,500 kg** `[specification]`
+- **QIXING 5-ton LPG propane tank capacity is 5 tons (approximately 10,000 liters) with design pressure of 1.77 MPa** `[specification]`
+- **QIXING 5-ton LPG propane tank design using life is 20 years with working temperature range within -20° to +50°** `[specification]`
+- **QIXING 5-ton LPG propane tank supply ability is 100 units per month with lead time of 35 days for orders ≤5 sets** `[volume]`
+- **Beltway Storage Singapore LPG facility has capacity of approximately 80,000 CBM managed by Vopak Gas Terminal partnership** `[volume]`
+- **Beltway Storage Singapore terminal has total petroleum capacity of 1,452,163 CBM across 112 tanks with 7 berths for vessels** `[volume]`
+- **Beltway Storage Singapore terminal maximum vessel draught is 15 meters** `[specification]`
+- **Beltway Storage Singapore tank sizes range from 2,600 to 80,000 CBM** `[specification]`
+- **Port of Tianjin hinterland includes Beijing, Tianjin municipalities and 8 provinces (Hebei, Henan, Shanxi, Shaanxi, Ningxia, Gansu, Qinghai, Tibet, Xinjiang) covering over 5 million km² or 52% of China's area** `[entity_detail]`
+- **China's amended Regulation on Safety Supervision and Management of Ships Carrying Dangerous Goods takes effect on March 1, 2025** `[mechanism]`
+- Shanghai customs handles over 20% of China's trade volume `[volume]`
+
 ## Delivery Terms: FOB / CIF / CFR / DES
 
 Physical LPG contracts are structured around [[Incoterms in LPG Trading|Incoterms]] that define risk transfer, cost allocation, and operational responsibilities:
@@ -425,3 +447,10 @@ See [[Demurrage and Laytime]] for time-related contract mechanics and [[Incoterm
 - **Measurement disputes**: Quantity differences between load and discharge exceeding manifest error tolerance result in financial claims; reconciliation process linked to [[Demurrage and Laytime]] SOF procedures
 - **CFR transit risk mismatch**: Buyer bears transit risk without vessel control, creating exposure to vessel delays, diversions, and damage; see [[Incoterms in LPG Trading]] and [[VLGC Freight Dynamics]]
 - **Title and financing risk**: Delayed or discrepant documentation can disrupt L/C payment flows, creating working capital strain and potential forced position liquidation
+
+
+## Q&A (2026-04-09 15:03)
+
+**Q:** What is the full process from negotiation to finishing a deal as an LPG trader?
+
+**A:** The LPG trade lifecycle spans 10 phases: (1) market assessment and arb identification, (2) negotiation of commercial terms (product, volume, pricing formula, Incoterm, laycan, laytime, demurrage rate, payment terms), (3) trade finance setup (ICPO, L/C, performance guarantee at 2%, bank advances 80-90% at SOFR+100-250bps), (4) paper hedging (short AFEI swaps matching physical tonnage), (5) vessel nomination with Q88, (6) loading with independent inspection and risk transfer at hose connection, (7) transit with reliquefaction management, (8) discharge with laytime/demurrage tracking, (9) document presentation to L/C bank and MT103 settlement within 72hrs, (10) P&L reconciliation in ETRM. Typical back-to-back margin is 5-15 dollars/mt on a 44,000 MT VLGC cargo worth approximately 25 million dollars.

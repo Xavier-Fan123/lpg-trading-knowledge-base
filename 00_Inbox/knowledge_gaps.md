@@ -45,3 +45,9 @@ status: evergreen
 - Suggested action: enrich existing notes with propylene import origin breakdown (Korea, Middle East, SE Asia), volume trends, and CFR pricing basis
 - Priority: low
 - **RESOLVED 2026-04-09**: Import source table included in [[China_Propylene_Pricing]] — Korea, Japan, ME, SE Asia, US with freight costs and transit times.
+
+### 2026-04-09 -- China LPG Receiving Terminal Operations SOP
+- Detected during: User asked about 底层运营SOP for China's main LPG receiving terminals
+- Suggested action: create note (e.g., 22_Physical_Logistics/China_LPG_Terminal_Operations.md) covering pre-arrival/berthing/discharge/storage/distribution SOP, major terminal specs (Ningbo PMB, Dongguan, Tianjin), safety/compliance requirements (CIQ, customs, 危化品), tank types, discharge rates, vapor balance, and measurement reconciliation
+- Priority: high
+- **RESOLVED 2026-04-09**: Created [[China_LPG_Terminal_Operations]] (incubating) — 7-stage SOP, 6 major terminals, tank specs, MOT 2025 regs, CIQ/GACC compliance, distribution modes. Deep research generated 40 facts via gpt-researcher (15 web sources).

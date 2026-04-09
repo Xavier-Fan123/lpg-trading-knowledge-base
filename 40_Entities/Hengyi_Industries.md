@@ -109,3 +109,10 @@ Hengyi Industries is a Chinese-owned integrated refining and petrochemical compa
 - **Geopolitical risk**: Brunei's proximity to the South China Sea introduces potential maritime security and sovereignty risks affecting shipping routes and investment climate
 - **Demurrage exposure**: Coordination between refinery output timing and vessel loading windows is critical; delays at the PMB terminal generate demurrage costs — see [[Demurrage and Laytime]]
 - **Freight and routing risk**: Hengyi's regional supply advantage depends on short-haul voyage economics; shifts in [[VLGC Freight Dynamics]] can alter competitive positioning relative to Middle East and USGC origins
+
+
+## Q&A (2026-04-09 14:42)
+
+**Q:** Who are the 15 biggest potential buyers for Hengyi Brunei pressurized LPG (2,000-4,000 MT parcels)?
+
+**A:** Top buyers cluster in South China (Jiufeng, Orient Energy, China Gas, Guanghui, Haiyue, Hainan terminals), Vietnam (PV Gas, Saigon Petro), Philippines (Petron, Phoenix Petroleum, SL Harbour/Isla), Bangladesh (Bashundhara, Beximco/Omera), Sri Lanka (Laugfs Gas), and Myanmar. These markets match Hengyi's pressurized parcel profile: short PGC shipping distance from Brunei (2-4 days), pressurized receiving infrastructure, and 2-4k MT demand sizing. Hengyi's tank-top byproduct economics create price-aggressive selling opportunities for nearby buyers.

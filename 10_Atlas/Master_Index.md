@@ -35,6 +35,7 @@ status: evergreen
 - [[Physical LPG Contract Logic]] — FOB/CIF/CFR/DES, risk vs title transfer at hose connection, SGS inspection
 - [[Incoterms in LPG Trading]] — Four Incoterm deep dives, L/C documentary mechanics, trade finance (SOFR+100-250bps)
 - [[ETRM Systems]] — Openlink Endur, TPM, APM risk engine, JVS scripting, cMotion/gMotion logistics
+- [[China LPG Terminal Operations]] — 7-stage receiving SOP (pre-arrival → discharge → storage → distribution), major terminal specs, CIQ/customs, MOT dangerous goods compliance
 
 ## `30_Trading_Strategies/` — Arbitrage, Hedging & Trade Ideas
 
