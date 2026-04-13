@@ -7,7 +7,7 @@ import os
 import sys
 import time
 
-OUTDIR = r"C:\Users\chenx\Desktop\my_knowledge_base\00_Inbox\sources"
+OUTDIR = r"C:\Users\itg\Desktop\lpg-trading-knowledge-base\00_Inbox\sources"
 os.makedirs(OUTDIR, exist_ok=True)
 
 # Step 1: Get source list as raw text and extract IDs

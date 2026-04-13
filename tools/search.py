@@ -14,7 +14,7 @@ import argparse
 from pathlib import Path
 from collections import defaultdict
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(r"C:\Users\itg\Desktop\lpg-trading-knowledge-base")
 
 SCAN_DIRS = [
     "10_Atlas",

@@ -14,7 +14,7 @@ import re
 from pathlib import Path
 from datetime import datetime
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(__file__).resolve().parent.parent
 GAPS_FILE = VAULT / "00_Inbox" / "knowledge_gaps.md"
 
 # Phrases that indicate a knowledge gap was mentioned in the response

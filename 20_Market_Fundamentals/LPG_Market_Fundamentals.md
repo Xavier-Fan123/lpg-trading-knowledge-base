@@ -373,6 +373,34 @@ status: incubating
 - **US oil demand forecast to grow 110,000 bpd in 2026 to average 20.9 million bpd** `[volume]`
 - **India's inflation at 1.3 percent in December 2025, below RBI target range of 2-4 percent** `[specification]`
 
+### From `pgc_asia_market_research_round2.txt` (2026-04-10)
+- **Vietnam imported 2.39 million tonnes of LPG valued at $1.54 billion in first 9 months of 2024** `[volume]`
+- **Vietnam 2024 LPG import estimate annualized to approximately 3.2 million tonnes** `[volume]`
+- **Vietnam increased US LPG imports by more than 1 million tonnes during 2025** `[volume]`
+- **Petron retained dominant position in Philippines LPG sector with 25.1% market share in 2025** `[entity_detail]`
+- **Philippines had 24 days of LPG supply with remaining storage capacity of 92 days as of March 2025** `[specification]`
+- **Indonesia imported 6.91 million tons of LPG in 2024** `[volume]`
+- **Indonesia imported over 7 million mt LPG in 2023 with demand exceeding 8.8 million mt** `[volume]`
+- **Pertamina kerosene-to-LPG conversion converted over 140,000 fishing boats and 80,000 irrigation pumps to LPG** `[entity_detail]`
+- **Pertamina added 200,000 tons LPG supply ahead of Christmas/New Year 2024-2025** `[volume]`
+- **Bangladesh LPG imports: 1.24 million tonnes (2023), 1.44 million tonnes (2024), 1.45 million tonnes (2025)** `[volume]`
+- **Bangladesh LPG import value: Tk 9,120.87 crore (FY2024), Tk 11,668.89 crore (FY2025)** `[price]`
+- **Bashundhara LP Gas market share fell from 15.5% (FY2023) to 5.19% (FY2024) to 3.68% (FY2025)** `[entity_detail]`
+- **Beximco LPG operates 3,000 MT storage at Mongla port** `[specification]`
+- **LAUGFS Terminals operates 30,000 MT storage facility at Hambantota International Port, Sri Lanka** `[specification]`
+- **LAUGFS H1 2024 LPG throughput: 149,980 metric tons (91% increase from 78,724 mt in H1 2023)** `[volume]`
+- **LAUGFS 30,000 MT storage can be turned around 3 times per month as transhipments** `[specification]`
+- **60% of LAUGFS throughput is re-exports to regional markets** `[entity_detail]`
+- **Myanmar average LPG import price $873/mt in 2024, up 5.8% YoY** `[price]`
+- **StealthGas FY2024: Revenue $167.3 million (+16.6%), Net Income $69.9 million (+34.7% YoY)** `[entity_detail]`
+- **StealthGas FY2025: Revenue $173.2 million, Net Income $60.6 million** `[entity_detail]`
+- **StealthGas Q4 2025 TCE $50,333/available day (+39.5% QoQ)** `[rate]`
+- **StealthGas fleet: 31 LPG carriers including 3 JV, total 349,170 cbm** `[specification]`
+- **StealthGas 70% of fleet days secured for 2025 with contracted revenues of $155 million** `[entity_detail]`
+- **StealthGas 6-month TC rate: $32,950/day; 1-year TC: $36,325/day; 3-year TC: $54,800/day** `[rate]`
+- **China has 150+ teapot (independent) refineries, primarily in Shandong Province** `[entity_detail]`
+- **Chinese teapot refineries account for approximately 25% of total Chinese refining capacity** `[entity_detail]`
+
 ## Production Economics: The Byproduct Constraint
 
 LPG is overwhelmingly a **must-take byproduct**, not a demand-driven commodity. Approximately **55.1% of global LPG supply** originates from non-associated gas processing plants, where LPG is stripped from the natural gas stream as a necessary step before pipeline-quality gas can be delivered. An additional ~30% comes from refinery operations (catalytic cracking, reforming, coking), with the remainder from associated gas at oil production sites.

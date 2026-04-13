@@ -20,7 +20,7 @@ import argparse
 from pathlib import Path
 from collections import defaultdict, Counter
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(r"C:\Users\itg\Desktop\lpg-trading-knowledge-base")
 INDEX_DIR = VAULT / ".search_index"
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 CHUNKS_FILE = INDEX_DIR / "chunks.json"

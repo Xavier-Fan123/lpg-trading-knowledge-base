@@ -14,7 +14,7 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(r"C:\Users\itg\Desktop\lpg-trading-knowledge-base")
 OUTPUT_DIR = VAULT / "50_Outputs" / "slides"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

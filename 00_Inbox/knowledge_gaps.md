@@ -51,3 +51,15 @@ status: evergreen
 - Suggested action: create note (e.g., 22_Physical_Logistics/China_LPG_Terminal_Operations.md) covering pre-arrival/berthing/discharge/storage/distribution SOP, major terminal specs (Ningbo PMB, Dongguan, Tianjin), safety/compliance requirements (CIQ, customs, 危化品), tank types, discharge rates, vapor balance, and measurement reconciliation
 - Priority: high
 - **RESOLVED 2026-04-09**: Created [[China_LPG_Terminal_Operations]] (incubating) — 7-stage SOP, 6 major terminals, tank specs, MOT 2025 regs, CIQ/GACC compliance, distribution modes. Deep research generated 40 facts via gpt-researcher (15 web sources).
+
+### 2026-04-10 -- Asian Pressurized LPG (PGC/Coaster) Market Structure
+- Detected during: User asked about Asian pressurized LPG market overview and main players
+- Suggested action: create note (e.g., 22_Physical_Logistics/Asian_Pressurized_LPG_Market.md) covering:
+  - PGC ship owner fleet breakdown (Epic Gas/BW Epic Kosan, Steelhead, Pacific Gas, Navigator Gas small fleet, regional owners)
+  - Asian PGC spot freight rates and key routes (Brunei-South China, AG-India, Intra-SEA)
+  - Pressurized LPG trade flow quantification (volumes by corridor)
+  - Key pressurized terminals/receiving infrastructure in Asia
+  - India PMUY program's pull on pressurized LPG demand
+  - Competitive dynamics: pressurized vs semi-ref vs VLGC breakbulk distribution
+- Priority: high
+- **RESOLVED 2026-04-10**: Created [[Asian_Pressurized_LPG_Market]] (incubating) — PGC fleet owners (BW Epic Kosan 48 vessels, StealthGas 29 vessels, Exmar 11 vessels), vessel economics, 8 trade corridors, terminal infrastructure (India/Bangladesh/SE Asia/South China), India PMUY demand drivers, 3 distribution model comparison. WebSearch research generated 38 facts, miner extracted 28 to VLGC_Freight_Dynamics.

@@ -5,10 +5,17 @@ You are an LPG trading knowledge assistant working within a structured knowledge
 of 37+ wiki notes across 5 categories: Market Fundamentals, Pricing & Valuation,
 Physical Logistics, Trading Strategies, and Entities.
 
-## Python Environment
-- Python: `PYTHONIOENCODING=utf-8 /c/Users/chenx/AppData/Local/Programs/Python/Python313/python.exe`
-- Vault root: `C:\Users\chenx\Desktop\my_knowledge_base`
-- All tool commands below assume you prefix with the Python path above.
+## Python Environment (Auto-Detect)
+
+**At the start of every new conversation**, before doing anything else, detect the
+environment by running:
+```bash
+PYTHON_PATH=$(which python3 2>/dev/null || which python 2>/dev/null) && echo "PYTHON=$PYTHON_PATH" && VAULT_ROOT=$(git rev-parse --show-toplevel 2>/dev/null) && echo "VAULT=$VAULT_ROOT"
+```
+- Use the detected `PYTHON_PATH` for all subsequent `python` commands, prefixed with `PYTHONIOENCODING=utf-8`.
+- Use the detected `VAULT_ROOT` as the vault directory.
+- If detection fails, ask the user for their Python path.
+- All tool commands below assume you prefix with `PYTHONIOENCODING=utf-8 <PYTHON_PATH>`.
 
 ---
 
@@ -127,6 +134,16 @@ When the user says "rebuild index" or "reindex":
 - `40_Entities/` -- Companies, terminals, chokepoints, data providers
 - `00_Inbox/` -- Raw sources, web clips, extracts, incoming content
 - `50_Outputs/` -- Generated slides and reports
+
+## New Machine Setup
+
+When this repo is cloned to a new machine, run **once**:
+```
+python setup.py
+```
+This auto-detects the local Python path and vault root, and generates
+`.claude/settings.local.json` with correct hooks and permissions.
+The generated file is `.gitignore`'d — each machine has its own.
 
 ## Response Style
 

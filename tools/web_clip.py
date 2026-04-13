@@ -12,7 +12,7 @@ import hashlib
 from datetime import datetime
 from pathlib import Path
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(r"C:\Users\itg\Desktop\lpg-trading-knowledge-base")
 INBOX = VAULT / "00_Inbox" / "web_clips"
 INBOX.mkdir(parents=True, exist_ok=True)
 

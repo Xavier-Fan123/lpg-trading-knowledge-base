@@ -22,7 +22,7 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 
-VAULT = Path(r"C:\Users\chenx\Desktop\my_knowledge_base")
+VAULT = Path(r"C:\Users\itg\Desktop\lpg-trading-knowledge-base")
 SOURCES_DIR = VAULT / "00_Inbox" / "sources"
 SOURCES_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = VAULT / "00_Inbox" / ".deep_research_log.json"

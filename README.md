@@ -23,19 +23,20 @@ CLAUDE.md (behavioral rules)
   │
   ├─ Rule 4: Detect knowledge gaps ──► knowledge_gaps.md
   │
-  └─ Rule 5: Weekly maintenance ──► vault_lint.py → Health report
+  ├─ Rule 5: Weekly maintenance ──► vault_lint.py → Health report
+  │
+  └─ Rule 6: Auto-detect Python ──► Environment-portable across machines
 ```
 
 ## Knowledge Base Stats
 
 | Metric | Value |
 |--------|-------|
-| Wiki notes | 37 |
-| Total words | ~65,000 |
-| Mined facts | 2,147 |
-| Source documents | 287 |
+| Wiki notes | 43 |
+| Total words | ~80,000 |
+| Mined facts | 2,345 |
 | Entity profiles | 17 |
-| Python tools | 8 |
+| Python tools | 9 |
 
 ## Directory Structure
 
@@ -44,53 +45,66 @@ CLAUDE.md (behavioral rules)
 │   ├── Master_Index.md        # Map of Content with all WikiLinks
 │   └── Health_Report.md       # Auto-generated vault health check
 │
-├── 20_Market_Fundamentals/    # Supply, demand & macro drivers
+├── 20_Market_Fundamentals/    # Supply, demand & macro drivers (5 notes)
 │   ├── LPG_Market_Fundamentals.md
 │   ├── Chinese_PDH_Margin.md
 │   ├── LPG_Supply_Chain_Structure.md
+│   ├── CTO_MTO_Economics.md
 │   └── Seasonal_Trading_Patterns.md
 │
-├── 21_Pricing_and_Valuation/  # Benchmarks, formulas & risk pricing
+├── 21_Pricing_and_Valuation/  # Benchmarks, formulas & risk pricing (8 notes)
 │   ├── Saudi_Aramco_Contract_Price.md
 │   ├── AFEI_Benchmark.md
 │   ├── Propane_Naphtha_Spread.md
 │   ├── Physical_Hedging_Architecture.md
-│   └── ... (7 notes)
+│   ├── Basis_Risk_Management.md
+│   ├── China_Propylene_Pricing.md
+│   └── ... (8 notes)
 │
-├── 22_Physical_Logistics/     # Freight, shipping & terminal ops
+├── 22_Physical_Logistics/     # Freight, shipping & terminal ops (7 notes)
 │   ├── VLGC_Freight_Dynamics.md
+│   ├── Asian_Pressurized_LPG_Market.md
+│   ├── China_LPG_Terminal_Operations.md
 │   ├── Demurrage_and_Laytime.md
 │   ├── Physical_LPG_Contract_Logic.md
-│   └── ... (5 notes)
+│   ├── Incoterms_in_LPG_Trading.md
+│   └── ETRM_Systems.md
 │
-├── 30_Trading_Strategies/     # Arbitrage & trade frameworks
+├── 30_Trading_Strategies/     # Arbitrage, workflows & career (4 notes)
 │   ├── Geographical_Arbitrage.md
-│   └── US_Asia_LPG_Arb_Framework.md
+│   ├── US_Asia_LPG_Arb_Framework.md
+│   ├── Trader_Daily_Workflow.md
+│   └── Refinery_Trader_Career_Roadmap.md
 │
-├── 40_Entities/               # Counterparties, infrastructure, data providers
+├── 40_Entities/               # Counterparties, infrastructure, data providers (17 notes)
 │   ├── Saudi_Aramco.md
 │   ├── Mont_Belvieu.md
+│   ├── Petronas.md
+│   ├── Hengyi_Industries.md
 │   ├── Panama_Canal.md
+│   ├── Vitol.md
 │   └── ... (17 notes)
 │
 ├── 00_Inbox/                  # Raw data & incoming content
 │   ├── notes/                 # Original NotebookLM notes
-│   ├── sources/               # 287 source texts (gitignored, 16MB)
+│   ├── sources/               # Source texts (gitignored)
 │   └── knowledge_gaps.md      # Auto-detected knowledge gaps
 │
 ├── 50_Outputs/                # Generated slides & reports
 │
-├── tools/                     # Python CLI toolkit
+├── tools/                     # Python CLI toolkit (9 tools)
 │   ├── search.py              # Full-text keyword search
-│   ├── semantic_search.py     # TF-IDF vector search (ChromaDB)
+│   ├── semantic_search.py     # TF-IDF vector search
 │   ├── miner.py               # LLM-powered fact extraction pipeline
 │   ├── compile.py             # Inbox → wiki note auto-classifier
 │   ├── qa_file.py             # Q&A filing into wiki notes
 │   ├── web_clip.py            # Web page → Markdown clipper
 │   ├── slides.py              # Wiki → Marp slide generator
+│   ├── deep_research.py       # Multi-round web research agent
 │   └── post_conversation.py   # Stop hook: gap detection
 │
 ├── vault_lint.py              # Health check: broken links, contradictions, orphans
+├── setup.py                   # One-time machine setup (generates .claude/settings.local.json)
 ├── CLAUDE.md                  # AI behavioral rules (auto-loaded by Claude Code)
 └── .gitignore
 ```
@@ -124,6 +138,13 @@ python tools/miner.py --status
 python tools/compile.py --process --auto
 ```
 
+### Deep Research
+
+```bash
+# Multi-round web research on a topic, writes findings to KB
+python tools/deep_research.py --topic "Asian pressurized LPG market" --rounds 3
+```
+
 ### Q&A Filing
 
 ```bash
@@ -149,44 +170,70 @@ The knowledge base is designed to grow automatically through use:
 2. **Q&A write-back** — Valuable insights from conversations are saved back to wiki notes
 3. **Gap detection** — Topics not covered by the KB are automatically logged for future research
 4. **Weekly health check** — Claude proactively reminds you when maintenance is overdue (>7 days)
+5. **Stop hook** — `post_conversation.py` scans each conversation for knowledge gap indicators and logs them automatically
 
-This is powered by `CLAUDE.md` (behavioral rules for Claude Code) and a `Stop` hook (`post_conversation.py`) that detects knowledge gaps after each conversation turn.
+This is powered by `CLAUDE.md` (behavioral rules for Claude Code) and a `Stop` hook that runs after each conversation turn.
 
 ## Note Format
 
 Every wiki note follows a standardized structure:
 
-- **YAML frontmatter**: aliases, tags, date, status
+- **YAML frontmatter**: aliases, tags, date, status (`seed` → `incubating` → `evergreen`)
 - **Empirical Facts vs Analytical Assumptions**: hard data separated from interpretive claims
 - **Scenario Analysis**: Base / Bull / Bear / Invalidation Triggers
-- **Downside Risks**: WikiLinked to specific risk entities
-- **Mined Data**: Facts extracted from source documents by `miner.py`
+- **Associated Risks**: WikiLinked to specific risk entities
+- **Mined Data**: Tagged facts extracted from source documents by `miner.py` (e.g. `[price]`, `[volume]`, `[mechanism]`)
+- **Q&A Section**: Preserved question-answer pairs from conversations
 
 ## Tech Stack
 
 - **AI**: [Claude Code](https://claude.ai/claude-code) (Opus 4.6) + Anthropic API (Haiku for mining)
 - **Frontend**: [Obsidian](https://obsidian.md/) (Markdown viewer with WikiLinks & graph view)
-- **Search**: TF-IDF vector search + full-text keyword search
-- **Data Source**: NotebookLM export (287 source documents, 26 notes)
-- **Language**: Python 3.13
+- **Search**: TF-IDF vector search + full-text keyword search (580 semantic chunks)
+- **Data Source**: NotebookLM export + web research + conversation Q&A
+- **Language**: Python 3.11+
 
 ## Getting Started
 
-1. Clone the repo
-2. Set up your Anthropic API key in `.env`:
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Xavier-Fan123/lpg-trading-knowledge-base.git
+   cd lpg-trading-knowledge-base
+   ```
+
+2. Run one-time machine setup (auto-detects Python path, generates Claude Code hooks):
+   ```bash
+   python setup.py
+   ```
+
+3. Set up your Anthropic API key in `.env`:
    ```
    ANTHROPIC_API_KEY=sk-ant-...
    ```
-3. Install dependencies:
+
+4. Install dependencies:
    ```bash
-   pip install anthropic chromadb
+   pip install anthropic
    ```
-4. Build the search index:
+
+5. Build the search index:
    ```bash
    python tools/semantic_search.py --rebuild
    ```
-5. Open the directory in [Claude Code](https://claude.ai/claude-code) — `CLAUDE.md` loads automatically
-6. (Optional) Open in [Obsidian](https://obsidian.md/) for graph view and visual browsing
+
+6. Open the directory in [Claude Code](https://claude.ai/claude-code) — `CLAUDE.md` loads automatically
+
+7. (Optional) Open in [Obsidian](https://obsidian.md/) for graph view and visual browsing
+
+## Portability
+
+This project is designed to run on different machines without hardcoded paths:
+
+- **`setup.py`** auto-detects the local Python interpreter and vault root, then generates `.claude/settings.local.json` (gitignored)
+- **`CLAUDE.md`** instructs Claude Code to auto-detect the environment at the start of each conversation
+- **All tools** use `Path(__file__).parent.parent` for vault root — no absolute paths in code
+
+When moving to a new machine, just run `python setup.py` after cloning.
 
 ## Inspired By
 

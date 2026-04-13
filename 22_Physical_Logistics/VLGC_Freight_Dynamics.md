@@ -333,6 +333,36 @@ status: incubating
 - **Tianjin Port's Sinochem International Dangerous Goods Logistics Center has container and general cargo handling capacity of approximately 95,000 TEU/year** `[entity_detail]`
 - **SHACMAN 25CBM LPG bobtail truck features 25 CBM tank with Q345R steel (design pressure 1.61 MPa, testing pressure 2.21 MPa), WEICHAI WP10.375E50 engine (375 HP, Euro 5 emission), YQB15-5 gas pump (15 m³/hour flow rate), 24V electrical system, 15-meter hose reel** `[specification]`
 
+### From `pgc_asia_market_research.txt` (2026-04-10)
+- **BW Epic Kosan controls a fleet of 48-49 vessels, the world's largest fleet of smaller gas carriers** `[entity_detail]`
+- **BW Epic Kosan fleet consists of fully pressurised, semi-refrigerated, ethylene and ammonia capable vessels ranging from 3,000 to 11,000 cubic meters** `[specification]`
+- **StealthGas owns fleet of 29 LPG carriers with total capacity of 339,134 cubic meters** `[entity_detail]`
+- **StealthGas fleet comprises almost 20 ships of around 3,500 m3, over 20 of 5,000 m3 and 10 in the 6,300-7,500 m3 range** `[specification]`
+- **StealthGas geographic deployment: 20 vessels in EU-Mediterranean, 4 in Africa, 3 in Middle East-Far East, 2 in US-Caribbean-Latin America; only 3 vessels trading in Asia** `[entity_detail]`
+- **Navigator Gas operates fleet of 59 semi- or fully-refrigerated liquefied gas carriers, with 28 ethylene/ethane capable** `[entity_detail]`
+- **Navigator Gas acquired three 17,000 cbm handysize ethylene carriers in early 2025 (Navigator Hyperion, Navigator Titan, Navigator Vesta)** `[entity_detail]`
+- **Exmar fleet of 10 pressurized vessels and 1 semi-pressurized LPG carrier; expanded fleet in January 2025 with two newbuilds for Asia-Pacific: 46,000 m3 (2025) and 41,000 m3 (2026) semi-refrigerated vessels** `[entity_detail]`
+- **Pertamina International Shipping owns 102 tankers total and 7 VLGCs; Pertamina Gas Caspia and Dahlia are 91,000 m3 capacity with dual-fuel technology** `[entity_detail]`
+- **Fully pressurized gas carrier cargo capacity: 500 to 6,000 m3 with operating pressure up to 17.5 kg/cm2 and minimum temperature -45 degrees Celsius** `[specification]`
+- **Semi-pressurized/semi-refrigerated ships cargo capacity: 3,000 to 25,000 m3 with operating pressure 5-8.5 kg/cm2 and minimum temperature -10 to -48 degrees Celsius** `[specification]`
+- **Semi-pressurized segment growing at fastest CAGR of 15.1% in LPG tanker market** `[rate]`
+- **Coasters are LPG vessels below 15,000 m3 capacity used for short-haul, regional, coastal distribution** `[specification]`
+- **60,000 cbm LGC time charter: $975,000/month (~$32,500/day); 38,000 cbm MGC time charter: $900,000/month (~$30,000/day)** `[rate]`
+- Pressurized coasters (3,000-5,000 cbm) estimated range: $8,000-$15,000/day TCE in Asia `[rate]`
+- Per-tonne freight: VLGC $15-25/mt (long-haul) vs Pressurized coaster $40-80/mt (short-haul) `[rate]`
+- **China consumes over 96 million tonnes of LPG annually, driven primarily by PDH plants** `[volume]`
+- **India consumes approximately 39 million tonnes of LPG; imports about 60% of requirement; January 2026 alone imported 2.192 million tonnes** `[volume]`
+- **India, Pakistan, and Southeast Asia combined intake reached 40.5 million mt, a 74% increase from 2018** `[volume]`
+- **India's LPG consumption reached historic high in February at rate of 100 kT/day** `[volume]`
+- **105.8 million PMUY households connected as of October 2025 (up from 103.3 million); Government approved Rs 12,000 crore ($1.4B) subsidy for PMUY consumers 2025-26 at Rs 300 per 14.2kg cylinder** `[volume]`
+- **India's total LPG storage capacity approximately 1.9 million tonnes (22 days of supply)** `[volume]`
+- **IOC, HPCL, BPCL contracted 2.2 million tonnes US LPG for 2026 (10% of import needs)** `[volume]`
+- **Pipavav terminal discharged 21,907 tonnes from Ruwais ADNOC VLGC cargo** `[volume]`
+- **Indonesia and Vietnam each increased US LPG imports by more than 1 million tonnes during 2025** `[volume]`
+- **Key Asian PGC routes: Brunei (Hengyi PMB) to South China 2-4 days; Arabian Gulf to India west coast 5-7 days; Singapore hub to Vietnam/Philippines 2-5 days; Intra-Indonesia 1-3 days; India east coast to Bangladesh (Mongla) 3-5 days** `[specification]`
+- **VLGC carries 44,000 mt vs pressurized coaster at 2,000-4,000 mt = roughly 10-20x cargo per voyage** `[specification]`
+- **Brunei (Hengyi PMB) to South China/Vietnam pressurized parcels: 2,000-4,000 MT with tank-top byproduct economics** `[volume]`
+
 ## Vessel Specifications
 
 The **Very Large Gas Carrier (VLGC)** is the workhorse of the seaborne LPG trade. Key specifications:
