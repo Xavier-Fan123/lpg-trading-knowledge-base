@@ -17,6 +17,7 @@ status: evergreen
 - [[Chinese PDH Margin]] — PDH margin formula, 96M tonnes/year, two-week pain threshold, swing demand
 - [[LPG Supply Chain Structure]] — 7-stage flow: production → fractionation → storage → freight → discharge → distribution
 - [[Seasonal Trading Patterns]] — Winter heating/RVP blending, summer PDH-driven, Q1/Q3 turnarounds
+- [[Refinery Processing Basics]] — Crude classification (API/sulfur), distillation/FCC/coking/reforming, LPG yield drivers
 
 ## `21_Pricing_and_Valuation/` — Benchmarks, Formulas & Risk Pricing
 

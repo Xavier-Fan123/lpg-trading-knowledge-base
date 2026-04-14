@@ -32,11 +32,12 @@ CLAUDE.md (behavioral rules)
 
 | Metric | Value |
 |--------|-------|
-| Wiki notes | 43 |
-| Total words | ~80,000 |
-| Mined facts | 2,345 |
+| Wiki notes | 44 |
+| Total words | ~90,000 |
+| Mined facts | ~2,500 |
 | Entity profiles | 17 |
-| Python tools | 9 |
+| Semantic chunks | 598 |
+| Python tools | 12 |
 
 ## Directory Structure
 
@@ -45,12 +46,13 @@ CLAUDE.md (behavioral rules)
 │   ├── Master_Index.md        # Map of Content with all WikiLinks
 │   └── Health_Report.md       # Auto-generated vault health check
 │
-├── 20_Market_Fundamentals/    # Supply, demand & macro drivers (5 notes)
+├── 20_Market_Fundamentals/    # Supply, demand & macro drivers (6 notes)
 │   ├── LPG_Market_Fundamentals.md
 │   ├── Chinese_PDH_Margin.md
 │   ├── LPG_Supply_Chain_Structure.md
 │   ├── CTO_MTO_Economics.md
-│   └── Seasonal_Trading_Patterns.md
+│   ├── Seasonal_Trading_Patterns.md
+│   └── Refinery_Processing_Basics.md
 │
 ├── 21_Pricing_and_Valuation/  # Benchmarks, formulas & risk pricing (8 notes)
 │   ├── Saudi_Aramco_Contract_Price.md
@@ -90,7 +92,9 @@ CLAUDE.md (behavioral rules)
 │   ├── sources/               # Source texts (gitignored)
 │   └── knowledge_gaps.md      # Auto-detected knowledge gaps
 │
-├── 50_Outputs/                # Generated slides & reports
+├── 50_Outputs/                # Generated slides, reports & templates
+│   ├── LPG_Trader_Working_Sheets.xlsx  # 8-tab trader workbook template
+│   └── build_trader_sheets.py
 │
 ├── tools/                     # Python CLI toolkit (9 tools)
 │   ├── search.py              # Full-text keyword search
@@ -101,6 +105,8 @@ CLAUDE.md (behavioral rules)
 │   ├── web_clip.py            # Web page → Markdown clipper
 │   ├── slides.py              # Wiki → Marp slide generator
 │   ├── deep_research.py       # Multi-round web research agent
+│   ├── batch_extract.py       # Batch extract text from pptx/xlsx/pdf files
+│   ├── ppt_binary_extract.py  # Legacy .ppt binary format text extractor
 │   └── post_conversation.py   # Stop hook: gap detection
 │
 ├── vault_lint.py              # Health check: broken links, contradictions, orphans
@@ -189,7 +195,7 @@ Every wiki note follows a standardized structure:
 
 - **AI**: [Claude Code](https://claude.ai/claude-code) (Opus 4.6) + Anthropic API (Haiku for mining)
 - **Frontend**: [Obsidian](https://obsidian.md/) (Markdown viewer with WikiLinks & graph view)
-- **Search**: TF-IDF vector search + full-text keyword search (580 semantic chunks)
+- **Search**: TF-IDF vector search + full-text keyword search (598 semantic chunks)
 - **Data Source**: NotebookLM export + web research + conversation Q&A
 - **Language**: Python 3.11+
 

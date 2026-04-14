@@ -1,0 +1,125 @@
+# Source: 船运执行.pptx
+# Extracted: 2026-04-14 10:15
+# Characters: 3439
+
+
+--- Slide 1 ---
+SINGAPORE BORA PETROLEUM PTE. LTD.
+2017年3月
+1
+船舶执行操作
+
+--- Slide 2 ---
+Cargo nomination
+NOR tender
+Loading progress
+BL issue
+Discharge progress
+Freight payment
+Other claims
+执行流程
+
+--- Slide 3 ---
+到达装港前– 合同确认
+确认合同信息， laycan，laytime，WS点数，计费吨，滞期费，CP航速，特殊条款
+Laycan一般为3天，租家最后narrow down到一天
+Laytime : VLCC 120小时，SUEZMAX 96小时，AFRAMAX 96小时/84小时，MR 84小时/72小时
+计费吨：VLCC中东 265,000mt/270,000mt ； 西非 260,000mt ，SUEZMAX 130,000mt，AFRAMAX 80,000mt，MR 30,000mt，超出计费吨部分按照50%计算运费（只适用于WS计算运费的情况，不适用于lumpsum运费）
+CP航速一般VLCC12.5knots / 13knots
+
+--- Slide 4 ---
+到达装港前 – Voyage Order
+租家给出Voyage Order（laycan前10天），同时要求船东根据货量和吃水限制提供配载
+租家确认配载（货量，吃水等），船长根据配载货量向码头宣载
+船长收到VO后开始发ETA update，确保船舶能够在laycan前到达
+确认装港船代，发委托函，要求代理更新靠泊计划
+Voyage order主要信息：
+Loadport，narrowed laycan，cargo，quantity，disport，draft，supplier，agents，surveyor，general voyage instructions
+
+--- Slide 5 ---
+Voyage Order 示例
+右图只为VO首页，完整版请查看附件word版本
+
+--- Slide 6 ---
+配载注意：
+船长需联系代理取得最新的API，装货温度，吃水限制
+若两种以上油品，为了保证卸货灵活性，两个slop舱需装不同种油品
+关注船舶到达卸港的吃水是否满足营口20.5m的要求
+租家在到港前5天确认配载，船长向码头宣货
+早装（Early loading）：
+如果船舶在laycan前到达，船东要求提前装货，租家需考虑以下因素：
+看CP中early loading节省的时间如何算，100%不计入laytime租家考虑同意早装
+50%不计入laytime考虑不同意早装，因为到第二装港可能还要等laycan，或者到卸港了要等泊位
+到达装港前– 配载
+
+--- Slide 7 ---
+
+--- Slide 8 ---
+船长递交NOR（一般合同规定laycan1600前递交NOR)
+按照配载开始装货，惯例是terminal stop，若租家对货量有特殊要求可以指示船长ship stop
+完货后船长计算货差，行业惯例是BL毛量和船量GSV比较，小于0.3%可以签提单，大于0.3%不能签提单并立即通知租家，船长出具LOP
+EDP：early departure procedure，即在签发提单前允许船舶离港（需提前和代理/码头确认该装货港是否执行EDP）
+中东大部分地区执行EDP，船舶卸货后先离港，由代理代替船长签发提单中东不执行EDP的港口：BASRAH, DAS ISLAND, ZIRKU ISLAND, ASSALUYEH
+西非地区不执行EDP
+检查货物单据是否齐全，包括船上文件：ullage，NOR，SOF，OBQ，LOP；码头文件：BL, manifest, quantity cert, quality cert, origin cert, SOF, LOP
+到达装港后
+
+--- Slide 9 ---
+航行期间船长每天更新ETA报告，变动超过6小时通知租家，租家及时调整卸货计划；如遇到罐容不足或抢靠泊顺序的情况，可以和船东协商降低或提高航速，额外的燃油费需要船东承担
+明水测量：离开装港后4天及到达卸港前4天测量明水
+H2S测量：到达卸港前4天测量H2S含量
+租家在到港前10天发出discharge order，内容包括：disport，cargo，receiver，agent details
+Broker起草LOI发给租家，租家签字后发给船东抄送broker
+船东出具运费发票，并在船舶到达卸港前7天发给租家确认
+确认船东已经指派卸港代理
+关注卸港靠泊计划
+到达卸港前
+
+--- Slide 10 ---
+Discharge Order示例
+
+--- Slide 11 ---
+船长递交NOR，按照租家的卸货指示卸货
+卸货完成后检查单据是否齐全，同时关注ROB及罐收情况
+查看代理时间表，从前船离泊开始应记录为等潮水/等引航
+卸货完成后三天租家需支付运费，并告知船东value date
+船东需在卸货完成后90天内递交所有索赔（包括滞期，绕航，移泊，额外战险，SPRO及其他额外费用），Worldscale里指明由租家承担的费用
+绕航费 = 绕航时间 x 滞期费率 + 燃油费
+二次靠泊费用由租家承担，例如一个装港两票货的laycan时间间隔几天，船舶装完第一票后到锚地抛锚，再次靠泊装第二票货
+额外战险（包括海盗区和战区）主要发生在中东装港及印度洋，在也门装货时还会产生armed guard费用
+SPRO：ship pollution response organization, 只在中国卸港产生
+到达卸港后
+
+--- Slide 12 ---
+斜线区域为海盗区和战区
+
+--- Slide 13 ---
+WS计价运费：
+运费=计费吨 x 基本费率（Flat Rate） x 运价指数WS%
+例如：航线Ras Tanura -- Ningbo，查询WS网站得flat rate 24，合同约定WS65，minimum 260,000mt
+货量<=260,000mt时，Freight = 260,000mt x 24 x 65%
+货量>260,000mt时，比如货量270,000mt，overage 10,000mt
+Freight = 260,000mt x 24 x 65% + 10,000mt x 24 x 65% x 50%
+2. 包干运费（Lumpsum）
+多用于加勒比、巴拿马航线，以及远东到中国航线
+运费
+
+--- Slide 14 ---
+Laytime的起算时间：NOR+6 / all fast 早者
+Laytime的终止时间：hose disconnected
+100%扣减的情况：
+Shifting time（移泊）: 船舶从锚地起锚(anchorage aweigh)到靠泊后缆绳系好(all fast)这段时间不计入laytime，若直接靠泊则从pilot on board 到 all fast 不计入laytime
+Sunset clause: 适用于中国卸港，在1530-0100之间递交NOR，laytime从第二天0700开始起算
+Pumping clause：卸货时间超过24小时并且船舶没有保持平均背压100PSI/7bar（除非租家或码头要求），超过24小时的时间不计入laytime
+Early loading，从开始装货到laycan0600不计入laytime（或50%不计入laytime，看CP）
+原油洗舱 max 12/8 hours，扫舱max 2 hours for each grade，超出时间不计入laytime
+由于船东（包括船长及船员）造成的delay，不计入laytime
+等待检验检疫的时间(Awaiting free pratique)不计入laytime ，BP VOY里有该条款
+50%扣减的情况：
+Bad weather/sea condition造成的delay
+Waiting for pilot/daylight/tugboat/tide
+码头设备故障，火灾爆炸罢工等
+滞期费
+
+--- Slide 15 ---
+谢谢大家！

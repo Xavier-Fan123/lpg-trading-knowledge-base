@@ -1,0 +1,371 @@
+# Source: 油轮合同.ppt
+# Extracted: 2026-04-14 14:02
+# Characters: 64549
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版标题样式
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+单击此处编辑母版文本样式第二级第三级第四级第五级
+
+*
+
+Iris Li
+
+油轮航次租船合同
+
+目 录
+
+contents
+
+01
+
+油轮航次合同简介
+
+06
+
+Unipec Special Provisions April 2008
+
+02
+
+受载期、装卸时间、滞期费、过驳相关条款解析
+
+03
+
+Asbatankvoy条款
+
+04
+
+Sinochem Standard Terms April 2008
+
+05
+
+Sinochem Clauses April 2008
+
+油轮航次租船合同简介
+
+Asbatankvoy 为最常用的格式合同，被广泛应用根据实际情况，船东和租家经常会对格式合同进行修改、补充目前Sinochem Standard Terms April 2008、Sinochem Clauses April 2008、Unipec Special Provisions April 2008也被广泛应用，同时还会加入Additional Clauses进行补充附加条款的效力优先于格式条款航次租船合同的条款可归类为一下几类：介绍条款、船舶说明、预备航次、航次条款、货物条款、港口货物装卸、安全港口与泊位、装卸时间和滞期费条款、运费、亏舱费和其它费用、保护性条款、留置权、互有责任碰撞、新杰森、共同海损、提单、罢工、战争等。
+
+Asbatankvoy Preamble
+
+IT   IS   THIS   DAY   AGREED   between  XXX (hereinafter called the "Owner") of the  XXX (hereinafter called the "Vessel") and  XXX (hereinafter called the "Charterer") that the transportation herein provided for will be performed subject to the terms and conditions of this Charter Party, which includes this Preamble and Part I and Part II. In the event of a conflict, the provisions of Part I will prevail over those contained in Part II.本条为序言，介绍了订立租约的双方（船东和租家）及履约船舶如第一部分的规定与第二部分的规定有所矛盾，第一部分的规定优先。
+
+Asbatankvoy Part I
+
+A. Description and Position of Vessel: Deadweight: 297,163.10 metric tons  载重吨Loaded draft of Vessel on assigned summer freeboard: 21.50M in salt water. 夏季满载吃水Capacity for cargo: 324,600 cbm 载货量Coated: N/A 是否有涂层Coiled: N/A 是否有加温盘管Last two cargoes: 前两载货CEIBA CO + CABINDA CO /UNIPEC ；PAZFLOR CO + GIRASSOL CO / UNIPEC ；AL + AM/UNIPECNow: ETA Angola 31st Dec 2014 船舶现处位置Expected Ready: XXX  船舶预计准备就绪时间B. Laydays: 受载期Commencing: XXX   起始日Cancelling: XXX   解约日Comments: 00:01/14:59 LOCAL TIME TBN ONE DAY BY CHRTRS
+
+Asbatankvoy Part I
+
+C.  Loading Port(s): 装货港1­/2 SAFE PORTS WAFR (NIGERIA ­ ANGOLA RANGE BUT INCLUDING JUBILEE TERMINAL) EXCLUDING INNER BERTHS Charterer's OptionD. Discharging Port(s): 卸货港1/3   SAFE   PORTS   SINGAPORE   /   SOUTH   KOREA   RANGE,INCLUDING   STS   OPL   HONG KONG ,TANJUN PELEPAS ­ ALWAYS EXCLUDING CHINESE RIVER PORTS Charterer's OptionE. Cargo: 最低货量（计费吨）MINIMUM 260,000 METRIC TONS, CHARTERERS OPTION COMPLETE UPTO FULL CARGO NO DEADFREIGHT FOR CHTRS ACCOUNT PROVIDED MINIMUM QTY SUPPLIED Charterer's Option NO  HEAT  CRUDE  OIL,  MAXIMUM  4  GRADES WITHIN  VESSELS  NATURAL SEGREGATION. Charterer's OptionF. Freight Rate:WS60.50 (2014 WORLDSCALE).  per metric tonOverage at: 50PCT OF AGREED WS RATE %
+
+Asbatankvoy Part I
+
+G. Freight rate payable to:THE OWNERS' BANKING DETAIL: XXXXXXH. Total Laytime in Running Hours: 120 HOURS TOTALI. Demurrage per day:   US$ 52,500PDPRJ. Commission2.5% ADDRESS COMISSION ON ALL MONIES AND 1.25% TO XXX(BROKER)K. The   place   of   General  Average   and   arbitration   proceedings  to   be LONDON/ENGLISH  LAW   TO APPLY 共同海损仲裁地点为伦敦L. Tovalop:Owner warrants vessel to be a member of TOVALOP scheme and will be so maintained throughout duration of this charter.M. Special Provisions: See additional clausesIN WITNESS WHEREOF  the parties have caused this Charter   consisting of a Preamble   Parts I and II  to be executed in duplicate as of the day and year first above written
+
+Asbatankvoy Part II – 保证条款
+
+1. WARRANTY—­VOYAGE—CARGOThe vessel, classed as specified in Part I hereof, and to be so maintained during the currency of this Charter, shall, with all convenient dispatch, proceed as ordered to Loading Port(s) named in accordance with Clause 4 hereof, or so near thereunto as she may safely get (always afloat), and being seaworthy, and having all pipes, pumps and heater coils in good working order, and being in every respect fitted for the voyage, so far as the foregoing conditions can be attained by the exercise of due diligence, perils of the sea and any other cause of whatsoever kind beyond the Owner's and/or Master's control excepted, shall load (always afloat), from the factors of the Charterer a full and complete cargo of petroleum and/or its products in bulk, not exceeding what she can reasonably stow and carry over and above her bunker fuel, consumable stores, boiler feed, culinary and drinking water, and complement and their effects (sufficient space to be left in the tanks to provide for the expansion of the cargo), and being so loaded shall forthwith proceed, as ordered on signing Bills of Lading, direct to the Discharging Port(s), or so near thereunto as she may safely get (always afloat), and deliver said cargo. If heating of the cargo is requested by the Charterer, the Owner shall exercise due diligence to maintain the temperatures requested.本条款为保证条款，对船舶，航程，货物做了一个整体的要求。本船具有第I 部分所述船级，并应在本租约期间保持该船级，本船应以合理速度驶往依据本租约第4 条指定的装货港或其附近本船所能安全抵达（始终处于浮泊状态）的地点。本船适航，各种输油管、泵及加热管系处于良好工作状态，并在各方面适合本航次。经恪尽职责能满足前述条件的范围内，船东和／或船长无法控制的海上风险及任何其他原因除外。本船应（在始终浮泊状态下）装载由承租人的代理人提供的满舱满载的散装石油和／或石油制品，但不超过除去燃油、应耗物料、锅炉用料、蔬菜及饮用水、船上定员及其财产（并为货物膨胀留出充分的货舱舱容）后本船所能合理载运的范围。如此装载后，本船应按所签提单规定的顺序，直接驶往卸货港或其附近本船所能安全抵达（始终处于浮泊状态）的地点交付上述货物。如承租人要求对货物进行加温，船东应恪尽职责保持货物在所要求的温度。
+
+Asbatankvoy Part II -- 运费
+
+2. FREIGHT.Freight shall be at the rate stipulated in Part I and shall be computed on intake quantity (except deadfreight as per Clause 3) as shown on the Inspector's Certificate of Inspection. Payment of freight shall be made by Charterer without discount upon delivery of cargo at destination, less any disbursements or advances made to the Master or Owner's agents at ports of loading and/or discharge and cost of insurance thereon. No deduction of freight shall be made for water and/or sediment contained in the cargo. The services of the Petroleum Inspector shall be arranged and paid for by the Charterer who shall furnish the Owner with a copy of the Inspector's Certificate.基于检验人的检验证书上船舶装载的货物数量（第3 条约定的亏舱费除外）以及第I 部分约定的费率计算运费。承租人应在货物于卸货港交付后支付未作扣减的运费，但可扣除在装货港和/或卸货港为船长或船东的代理支付的任何费用或垫付费用以及关于此的保险费用。运费不应以货物中含有水分和/或沉淀物而作扣减。石油检验人服务应由承租人安排，承租人并承担相应的费用，同时应提供给船东一份检验人证书副本。运费一般用BL中Gross量来算，包含货油中的水杂。当BL中只有NET量时用装港的数量证书为准。
+
+Asbatankvoy Part II – 亏舱费
+
+3. DEADFREIGHT.Should the Charterer fail to supply a full cargo, the Vessel may, at the Master's option, and shall, upon request of the Charterer, proceed on her voyage, provided that the tanks in which cargo is loaded are sufficiently filled to put her in seaworthy condition. In that event, however, deadfreight shall be paid at the rate specified in Part I hereof on the difference between the intake quantity and the quantity the Vessel would have carried if loaded to her minimum permissible freeboard for the voyage.当承租人未能提供充足的货物，船长有权选择船舶按原定航次继续执行，如承租人要求船舶执行原定航次，船舶应如此执行，但前提是载货船舱中已经装载了足使本船处于适航状态的货物。在前述情形下，亏舱费应当被支付，费率为第I 部分中约定的费率，数量为装货数量和本船达到本航次最低允许干舷高度时所能载运的数量之差亏舱费：本条款已经演变为按照最低货量计算运费。
+
+Asbatankvoy Part II -- Freight 运费
+
+WS全称 WORLDWIDE TANKER NOMINAL FREIGHT SCALE （世界油船名义运价费率表），该费率表列明WS100所对应的油轮各航线的基本运费率（flat rate），每年调整一次，根据当年的港口费，燃料费，运河费等运营成本调整。 WS指数 指市场运费与WS所规定的基本运费率的百分比，反映了即期市场油轮的运费价格水平。WS指数的制定依据是以一艘 航速为14.5节的7.5万吨级油船，在最经济条件下运行时盈亏平衡时的收入，定为WS指数基准100。越大的船舶基于规模效应，每吨货物的运费应当会越低，因此，VLCC 船舶在租约中约定的费率常常远远低于WS100所有费率均按去航满载、回程空载的往返航次计算
+
+Asbatankvoy Part II -- Freight 运费
+
+油轮运费计算实例1. 油轮计价运费：由最低货量（计费吨）、基本费率（Flat Rate）、和合同双方拟定的WS运价指数三部分组成：运费=计费吨 x 基本费率（Flat Rate） x 运价指数WS%例如：航线Ras Tanura -- Ningbo，查询WS网站得flat rate 24，合同约定WS65，minimum 260,000mt货量<=260,000mt时，Freight = 260,000mt x 24 x 65%货量>260,000mt时，比如货量270,000mt，overage 10,000mtFreight = 260,000mt x 24 x 65% + 10,000mt x 24 x 65% x 50%2. 包干运费（Lumpsum）多用于加勒比、巴拿马航线；北海，远东等航线
+
+Asbatankvoy Part II -- 指定装港及临时改港
+
+4. NAMING LOADING AND DISCHARGE PORTS.(a)   The Charterer shall name the loading port or ports at least twenty­four (24) hours prior to the Vessel's readiness to sail from the last previous port of discharge, or from bunkering port for the voyage, or upon signing this Charter if the Vessel has already sailed. However, Charterer shall have the option of ordering the Vessel to the following destinations for wireless orders:(b)  If lawful and consistent with Part I and with the Bills of Lading, the Charterer shall have the option of nominating a discharging port or ports by radio to the Master on or before the Vessel's arrival at or off the following places:(c)   Any extra expense incurred in connection with any change in loading or discharging ports (so named) shall be paid for by the Charterer and any time thereby lost to the Vessel shall count as used laytime.(a) 承租人应在船舶离开上一个卸港或本航次的加油港前24 小时指定装港，如在签订本合同时船舶已经在航行中，则应当即指定装货港。然而，承租人有权通过无线电指定命令船舶前往以下目的地。(b) 在合法，并和第I 部分、提单约定相符的情形下，承租人有权在船舶抵达如下地点时或在此之前，用无线电通知船长所指定的一个或多个卸货港。(c) 承租人应当支付更改装货港或卸货港（已指定）所引起的任何相关额外费用，任何因此损失的时间应当计为装卸时间。
+
+Asbatankvoy Part II -- Laycan 受载期和解约日
+
+5. LAYDAYS.Laytime shall not commence before the date stipulated in Part I, except with the Charterer's sanction. Should the Vessel not be ready to load by 4:00 o'clock P.M. (local time) on the cancelling date stipulated in Part I, the Charterer shall have the option of cancelling this Charter by giving Owner notice of such cancellation within twenty­four (24) hours after such cancellation date; otherwise this Charter to remain in full force and effect.Sinochem standard terms clause 5：If the vessel has not given Notice of Readiness to load by 1600 hours local time on the cancelling date, laytime shall commence upon the vessel's arrival in berth or 48 hours after nor tendered,whichever occurs first.if it becomes evident that the ship will miss cancelling, owner to give a new eta and laycan which charterers must either confirm or deecline within 72 hours.if charterer elects to confirm then the c/p remains in full effect with new laycan. if charterer elects to decline,then c/p to be cancelled without recourse to either party'.合同中一般规定laycan为2-3天，最终由租家narrow down到一天(在voyage order中写明）
+
+Asbatankvoy Part II -- laytime装卸时间
+
+6. NOTICE OF READINESS.Upon arrival at customary anchorage at each port of loading or discharge, the Master or his agent shall give the Charterer or his agent notice by letter, telegraph, wireless or telephone that the Vessel is ready to load or discharge cargo, berth or no berth, and laytime, as hereinafter provided, shall commence upon the expiration of six (6) hours after receipt of such notice, or upon the Vessel's arrival in berth (i.e., finished mooring when at a sealoading or discharging terminal and all fast when loading or discharging alongside a wharf), whichever first occurs. However, where delay is caused to Vessel getting into berth after giving notice of readiness for any reason over which Charterer has no control, such delay shall not count as used laytime.Laytime起算时间为NOR+6或靠泊时间，两者以较早为准。靠泊时间即all fast/finished mooring
+
+Asbatankvoy Part II -- laytime装卸时间
+
+7. HOURS FOR LOADING AND DISCHARGING.The number of running hours specified as laytime in Part I shall be permitted the Charterer as laytime for loading and discharging cargo; but any delay due to the Vessel's condition or breakdown or inability of the Vessel's facilities to load or discharge cargo within the time allowed shall not count as used laytime. If regulations of the Owner or port authorities prohibit loading or discharging of the cargo at night, time so lost shall not count as used laytime; if the Charterer, shipper or consignee prohibits loading or discharging at night, time so lost shall count as used laytime. Time consumed by the vessel in moving from loading or discharge port anchorage to her loading or discharge berth, discharging ballast water or slops, will not count as used laytime.Addition：MAX 3 hours waitting for loading documents in loading port(s) to be for Owners account, thereafter to be for charterers.本条款规定了laytime停算的情况，主要是指由船东有责任的过错所引起的延误及港口规定引起的延误可以停算laytime。从锚地到泊位这段时间应从laytime中扣除。完货后等待文件（空距报告、数量证书等）的时间为租家“免费”三小时
+
+Asbatankvoy Part II -- laytime装卸时间
+
+8. DEMURRAGE.Charterer shall pay demurrage per running hour and pro rata for a part thereof at the rate specified in Part I for all time that loading and discharging and used laytime as elsewhere herein provided exceeds the allowed laytime elsewhere herein specified. If, however, demurrage shall be incurred at ports of loading and/or discharge by reason of fire, explosion, storm or by a strike, lockout, stoppage or restraint of labor or by breakdown of machinery or equipment in or about the plant of the Charterer, supplier, shipper or consignee of the cargo, the rate of demurrage shall be reduced one­half of the amount stated in Part I per running hour or pro rate for part of an hour for demurrage so incurred. The Charterer shall not be liable for any demurrage for delay caused by strike, lockout, stoppage or restraint of labor for Master, officers and crew of the Vessel or tugboat or pilots.由于装港和/或卸港的火灾、爆炸、风暴或因为承租人、供货人、发货人或收货人的工厂内外的罢工、停业、停工或劳动力限制或机器设备的故障所致，滞期费算一半。由于船舶或拖轮的船长、高级船员和船员，或引水员罢工、停业、停工或劳动力限制所引起的延误而产生的任何滞期费，承租人不应当承担。
+
+Asbatankvoy Part II -- laytime装卸时间
+
+9. SAFE BERTHING­SHIFTING.The vessel shall load and discharge at any safe place or wharf, or alongside vessels or lighters reachable on her arrival, which shall be designated and procured by the Charterer, provided the Vessel can proceed thereto, lie at, and depart therefrom always safely afloat, any lighterage being at the expense, risk and peril of the Charterer. The Charterer shall have the right of shifting the Vessel at ports of loading and/or discharge from one safe berth to another on payment of all towage and pilotage shifting to next berth, charges for running lines on arrival at and leaving that berth, additional agency charges and expense, customs overtime and fees, and any other extra port charges or port expenses incurred by reason of using more than one berth. Time consumed on account of shifting shall count as used laytime except as otherwise provided in Clause 15.本条款适用于STS和二次靠泊的情况，过驳费用由租家承担。泊位间移泊费用由租家承担，包括拖轮、引航、额外代理费、系解锚费，边防费（immigration）、油围栏费（oil fense）等。时间连续计入laytime，不扣减。
+
+Asbatankvoy Part II -- 泵入和泵出
+
+10. PUMPING IN AND OUT.The cargo shall be pumped into the Vessel at the expense, risk and peril of the Charterer, and shall be pumped out of the Vessel at the expense of the Vessel, but at the risk and peril of the Vessel only so far as the Vessel's permanent hose connections, where delivery of the cargo shall be taken by the Charterer or its consignee. If required by Charterer, Vessel after discharging is to clear shore pipe lines of cargo by pumping water through them and time consumed for this purpose shall apply against allowed laytime. The Vessel shall supply her pumps and the necessary power for discharging in all ports, as well as necessary hands. However, should the Vessel be prevented from supplying such power by  reason of  regulations prohibiting fires on  board, the Charterer or consignee shall supply, at its expense, all power necessary for discharging as well as loading, but the Owner shall pay for power supplied to the Vessel for other purposes. If cargo is loaded from lighters, the Vessel shall furnish steam at Charterer's expense for pumping cargo into its Vessel, if requested by the Charterer, providing the Vessel has facilities for generating steam and is permitted to have fires on board. All overtime of officers and crew incurred in loading and/or discharging shall be for account of the Vessel.泵入的费用和风险由租家承担，泵出的由船东承担但仅限于输油管连接处若租家要求，在卸货后从船上向岸上输油管泵水以清洗输油管，所用时间计入laytime本船在各港口应提供卸货所用泵和必要的动力及人员。但如有关规则禁止船上明火而使本船无法提供此种动力，则承租人或收货人应提供卸货以及装货所需动力并承担费用，但为其它用途提供给本船的动力的费用，应由船东支付。如货物自驳船上装入本船，如承租人要求本船提供将货物泵入本船所需的蒸汽，当本船具有产生蒸汽之设备且允许在船上明火，本船应当提供，其费用由承租人承担。在装货和／或卸货期间高级船员、船员的加班费应由本船承担。
+
+Asbatankvoy Part II -- laytime装卸时间
+
+11. HOSES: MOORING AT SEA TERMINALS.Hoses for loading and discharging shall be furnished by the Charterer and shall be connected and disconnected by the Charterer, or, at the option of the Owner, by the Owner at the Charterer's risk and expense. Laytime shall continue until the hoses have been disconnected. When Vessel loads or discharges at a sea terminal, the Vessel shall be properly equipped at Owner's expense for loading or discharging at such place, including suitable ground tackle, mooring lines and equipment for handling submarine hoses.系泊于海上泊位装货和卸货所需管路应由承租人提供并负责连接和拆除，或者，船东可选择由船东提供、负责连接和摘除，但风险和费用由承租人承担。本条款规定了laytime的终止以为拆管时间为准。如本船在海上泊位装货或卸货，本船应具有在此种地点装货或卸货所需的适当设备，包括适当的锚泊属具、系泊缆绳和水下输油管路操作设备，船东承担前述设备的费用。
+
+关于Laytime装卸时间的附加条款
+
+Sinochem Clause 2. Shifting ClauseIf more than one berth at load or discharge ports is used, shifting expenses to be for Charterers' account, except that shifting expenses from anchorage to first berth will not be for Charterers' account.常用于中国卸港宁波的大榭和算山，也用于装卸港的二次靠泊。Sinochem Clause 6. Pumping Clausethe vessel shall discharge the entire homogenous cargo with 24 hours or maintain an average back pressure of 100psi at ships rail excluding cow and stripping provided shore facilities and cargo permit.if the vessel fails to comply with the above warranty,then charterer shall not be responsible for any demurrage caused by the failure.本条在中国卸港是几乎不可能完成的，主要由于罐容不足，卸货压力无法达到要求，所以船长会出具LOP以达到免责的目的。
+
+关于Laytime装卸时间的附加条款
+
+Unipec Special Provisions 2. NOR ClauseVessel shall not tender nor before commencement of finally appointed layday(s) without charterer's prior consent.在租家未允许的情况下，船东不能在layday前递交NOR，船提前到达装港也不能提前递交NOR。Unipec Special Provisions 6. Conoco weather ClauseDelays in berthing for loading or discharging and any delays after berthing which are due to weather shall count as one half laytime, or if on demurrage, at one half demurrage rate.except for lightering/ sts where full time to count weather permitting or not deberth and reberth due to bad weather. if any,additional cost incurred to be for charterers account.'坏天气造成的延误计一半时间。只适用于靠泊前和靠泊后，不适用与移泊期间。过驳STS的情况所有时间均计入laytime，不论天气好坏。
+
+关于Laytime装卸时间的附加条款
+
+Unipec Special Provisions 20. Berthing delay ClauseAny time for waiting for pilot, daylight, tug boat and/or total 24 hours for tide shall count as half used laytime or demurrage, if vessel is on demurrage.等引航，天亮，拖轮，潮水的时间计一半。Unipec Special Provisions 19. Sunset clause 日落条款If the vessel arrives at discharge port(s) and tenders valid nor between 15:30 hours local time and 0100 hours local time the next day, then time shall count from 0700 hours local time the next day, or upon vessel's arrival in berth, whichever occurs first.一般用于中国卸港，因天黑后无法卸货，如在1530-0100之间递交NOR，laytime起算时间以第二天0700或实际靠泊时间，两者较早者为准。
+
+关于Laytime装卸时间的附加条款
+
+Unipec Special Provisions 5. Early loading clause ClauseCharterer shall have the option to instruct the vessel to tender nor earlier than finally appointed layday and early load the vessel. Then laytime shall commence upon commencement of loading. All time saved between commencement of loading and 0600 hours local time on finally appointed layday shall be credited against any time vessel is on demurrage.早装条款，laytime起算时间为实际开始装货时间，并全部扣除从实际装货到受载期0600的这段时间。若早装失败，laytime起算时间为layday0600或实际装货时间，两者较早为准。Stripping/draining 扫舱一般每种货物2小时COW原油洗舱，所有舱一共12小时，超出的时间计入滞期
+
+Asbatankvoy Part II--应付款-税款-港口费
+
+12. DUES—TAXES—WHARFAGE. 应付款-税款-港口费The Charterer shall pay all taxes, dues and other charges on the cargo, including but not limited to Customs overtime on the cargo, Venezuelan Habilitation Tax, C.I.M. Taxes at La Havre and Portuguese Imposto de Comercio Maritime. The Charterer shall also pay all taxes on freight at loading or discharging ports and any unusual taxes, assessments and governmental charges which are not presently in effect but which may be imposed in the future on the Vessel or freight. The Owner shall pay all dues and other charges on the vessel (whether or not such dues or charges are assessed on the basis of quantity of cargo), including but not limited to French droits de quai and Spanish derramas taxes. The Vessel shall be free of charges for the use of any wharf, dock, place or mooring facility arranged by the Charterer for the purpose of loading or discharging cargo; however, the Owner shall be responsible for charges for such berth when used solely for Vessel's purposes, such as awaiting Owner's orders, tank cleaning, repairs, etc. before, during or after loading or discharging.承租人应支付所有的货物的税款、应付款和其他费用，包括但不限于有关货物的海关加班费、委内瑞拉供给税、勒阿弗尔海上贸易进口税，以及葡萄牙海上贸易进口税。承租人应支付装货港或卸货港的各种运费税，以及虽然目前并未征收，但将来可能向本船或运费征收的各种不寻常的税收和政府费用。船东应支付向本船征收的各种港务费和其他费用（不论此港务费或费用是否按货物数量计收），包括但不限于法国码头税和西班牙derramas 税。本船使用承租人为装货或卸货安排的任何码头、港池、场所或系泊设施应当免费，但当使用此种泊位仅是为了本船的目的，例如装货或卸货之前、期间或之后等候船东命令、船舱清洗、修理等，船东应承担费用。
+
+Asbatankvoy Part II—除外货物
+
+13. CARGOES EXCLUDED(a).  VAPOR PRESSURE.蒸气压力Cargo shall not be shipped which has a vapor pressure at one hundred degrees Fahrenheit (100°F.) in excess of thirteen and one-­half pounds (13.5 lbs.) as determined by the current A.S.T.M. Method (Reid) D­323.(b)  FLASH POINT.闪点 Cargo  having a  flash  point  under  one  hundred and  fifteen degrees Fahrenheit (115°F.)  (closed cup) A.S.T.M. Method D­56 shall not be loaded from lighters but this clause shall not restrict the Charterer from loading or topping off Crude Oil from vessels or barges inside or outside the bar at any port or place where bar conditions exist.除外的货物如货物在100华氏度时（37.7度），按A.S.T.M（美国材料试验协会）现行（Reid) D-323规程测试的蒸气压力超过13.5磅，则不得装船。如货物按A.S.T.M（美国材料试验协会）的D-56规程测试的闪点（闭口）低于华氏115度（46度），则不得通过从驳船上装入本船的方式装货，但此款规定并不限制承租人在有浅滩的港口或地点，在浅滩以内或以外从其他船舶或驳船将原油装入本船或装满油舱。闪点，是在规定的试验条件下，施用某种点火源造成液体汽化而着火的最低温度。
+
+Asbatankvoy Part II—冰冻条款
+
+14. ICE.(a)   In case port of loading or discharge should be inaccessible owing to ice, the Vessel shall direct her course according to Master's judgment, notifying by telegraph or radio, if available, the Charterers, shipper or consignee, who is bound to telegraph or radio orders for another port, which is free from ice and where there are facilities for the loading or reception of the cargo in bulk. The whole of the time occupied from the time the Vessel is diverted by reason of the ice until her arrival at an ice-­free port of loading or discharge, as the case may be, shall be paid for by the Charterer at the demurrage rate stipulated in Part I.(b)  If on account of ice the Master considers it dangerous to enter or remain at any loading or discharging place for fear of the Vessel being frozen in or damaged, the Master shall communicate by telegraph or radio, if available, with the Charterer, shipper or consignee of the cargo, who shall telegraph or radio him in reply, giving orders to proceed to another port as per Clause 14(a) where there is no danger of ice and where there are the necessary facilities for the loading or reception of the cargo in bulk, or to remain at the original port at their risk, and in either case Charterer to pay for the time that the Vessel may be delayed, at the demurrage rate stipulated in Part I.（a）冰冻。如装货港或卸货港因冰冻本船不能驶入，本船应依照船长的判断确定航线，如可能，应用电报或无线电的方式通知承租人、托运人或收货人；承租人、托运人或收货人应用电报或无线电指定另一未冰冻且有装载或接收该散装货油设备的港口。从本船因冰冻原因开始改变航向开始，至船舶抵达不冻的装货港或卸货港（视情况而定）所占用的时间，应由承租人按第I 部分规定的滞期费率支付费用。（b）如由于冰冻，船长担心本船会受冰封或损坏，认为驶入或停留在装货港或卸货港有危险，如可能，船长应用电报或无线电的方式与承租人、货物托运人或收货人联系；承租人、货物托运人或收货人应用电报或无线电予以答复，指示本船按第14条(a)款的规定驶往另一无冰冻险，且具有装载或接收该散装货油的必要设备的港口，或者，指示本船停留于原定港口而由他们承担风险。无论何种情况，对本船可能延误的时间，承租人均应按第I 部分规定的滞期费率支付费用。
+
+Asbatankvoy Part II – 港口组合
+
+15. TWO OR MORE PORTS COUNTING AS ONE.To the extent that the freight rate standard of reference specified in Part I F hereof provides for special groupings or combinations of ports or terminals, any two or more ports or terminals within each such grouping or combination shall count as one port for purposes of calculating freight and demurrage only, subject to the following conditions:(a)   Charterer shall pay freight at the highest rate payable under Part I F hereof for a voyage between the loading and discharge ports used by Charterer.(b)  All charges normally incurred by reason of using more than one berth shall be for Charterer's account as provided in Clause 9 hereof.(c)   Time consumed shifting between the ports or terminals within the particular grouping or combination shall not count as used laytime.(d)  Time consumed shifting between berths within one of the ports or terminals of the particular grouping or combination shall count as used laytime.Worldscale 有个清单，列明了部分港口组合，停靠这些港口组合（2个港口或以上），就如同只靠了一个港口，本条的约定就是针对此种情况。最后两款规定移泊时间，即使是港口组合，两港之间移泊时间由船东承担，一个港口内由承租人承担。
+
+Asbatankvoy Part II—装运货物
+
+16. GENERAL CARGO.The Charterer shall not be permitted to ship any packaged goods or non-­liquid bulk cargo of any description; the cargo the Vessel is to load under this Charter is to consist only of liquid bulk cargo as specified in Clause I.承租人不被允许装运包装货或非液体散装货，只能装液态散货。
+
+Asbatankvoy Part II—检疫、熏舱
+
+17. QUARANTINE/FUMIGATION(a)   QUARANTINE.检疫Should the Charterer send the Vessel to any port or place where a quarantine exists, any delay thereby caused to the Vessel shall count as used laytime; but should the quarantine not be declared until the Vessel is on passage to such port, the Charterer shall not be liable for any resulting delay.(b)  FUMIGATION.熏舱If the Vessel, prior to or after entering upon this Charter, has docked or docks at any wharf which is not rat­ free or stegomyia-­free, she shall, before proceeding to a rat­-free or stegomyia-­free wharf, be fumigated by the Owner at his expense, except that if the Charterer ordered the Vessel to an infected wharf the Charterer shall bear the expense of fumigation.(1) 如承租人指示本船前往存在检疫的任何港口或地点，由此造成的本船任何延误应计为已使用的装卸时间。但如在本船开始前往此种港口的航程之前尚未宣告有检疫，则承租人对由于造成的任何延误不负责任。(2) 如本船在开始履行本租约之前或之后已挂靠或挂靠有鼠害或黄热蚊的港口，则在其驶往无鼠害或黄热蚊的港口之前，船东应对其进行熏舱并承担费用，但如系承租人指示本船前往有疫情的港口，则由承租人承担熏舱费用。
+
+Asbatankvoy Part II—洗舱
+
+18. CLEANING.The Owner shall clean the tanks, pipes and pumps of the Vessel to the satisfaction of the Charterer's Inspector. The Vessel shall not be responsible for any admixture if more than one quality of oil is shipped, nor for leakage, contamination or deterioration in quality of the cargo unless the admixture, leakage, contamination or deterioration results from (a) unseaworthiness existing at the time of loading or at the inception of the voyage which was discoverable by the exercise of due diligence, or (b) error or fault of the servants of the Owner in the loading, care or discharge of the cargo.船东应清洗本船油舱、管路及油泵，直至承租人的检验人满意。如装运了超过一种的不同品质的油类货物，本船对因此产生的掺混不负责任，也不对货物渗漏、污染或质量恶化负责，除非货物掺混、渗漏、污染或质量恶化系由于(a)本船装货时或开始航行时存在经恪尽职责可发现的不适航，或(b)船东的受雇人在货物装载、照管或卸载中有过错。
+
+Asbatankvoy Part II-- 一般免责条款
+
+19. GENERAL EXCEPTIONS CLAUSE.一般免责条款The Vessel, her Master and Owner shall not, unless otherwise in this Charter expressly provided, be responsible for any loss or damage, or delay or failure in performing hereunder, arising or resulting from:­any act, neglect, default  or  barratry  of  the  Master,  pilots,  mariners  or  other  servants  of  the  Owner  in  the  navigation  or management of the Vessel; fire, unless caused by the personal design or neglect of the Owner; collision, stranding or peril, danger or accident of the sea or other navigable waters; saving or attempting to save life or property; wastage in weight or bulk, or any other loss or damage arising from inherent defect, quality or vice of the cargo; any act or omission of the Charterer or Owner, shipper or consignee of the cargo, their agents or representatives; insufficiency of packing; insufficiency or inadequacy or marks; explosion, bursting of boilers, breakage of shafts, or any latent defect in hull, equipment or machinery; unseaworthiness of the Vessel unless caused by want of due diligence on the part of the Owner to make the Vessel seaworthy or to have her properly manned, equipped and supplied; or from any other cause of whatsoever kind arising without the actual fault of privity of the Owner. 除本租约另有明文规定外，本船、船长和船东对下列原因引起或造成的任何灭失、损害、延误或未能履行本合同均不负责：船长、引航员、船员或其他船东受雇人在驾驶船舶或管理船舶中的行为、疏忽、不履行职责或船长船员不法损害行为；火灾，除非因船东本人设计或疏忽所致；碰撞、搁浅，或海上或其他可航水域的风险、危险或意外事故；救助或企图救助人命或财产；重量或体积的减少或其他因货物固有缺陷、质量或瑕疵引起的灭失或损害；承租人或货物的所有人、托运人或收货人，以及前述人员的代理人或代表的任何行为或不为；包装不充足；标志不充分或不当；锅炉爆炸，轴断裂或任何船体或船机的潜在缺陷；本船不适航，但因船东未尽谨慎处理使船舶适航，适当配备船员、装备船舶和配备供应品所致时除外；或者任何其他非船东实际过失或私谋引起的。
+
+Asbatankvoy Part II-- 一般免责条款
+
+And neither the Vessel nor Master or Owner, nor the Charterer, shall, unless otherwise in this Charter expressly provided, be responsible for any loss of damage or delay or failure in performing hereunder, arising or resulting from:­Act of God; act of war: perils of the seas; act of public enemies, pirates or assailing thieves; arrest or restraint of princes, rulers or people; or seizure under legal process provided bond is promptly furnished to release the Vessel or cargo; strike or lockout or stoppage or restraint of labor from whatever cause, either partial or general; or riot or civil commotion除合同另有明文规定外，无论是本船或船长或船东，还是承租人，对下列原因引起或造成的灭失、损害、延误或不履行本合同，概不负责：天灾；战争行为；海上风险、海盗或海上窃贼；君主、当权者或人民的扣押或拘禁；依依照法律程序被扣押，但应迅速提供担保使本船或货物得以获释；不论何种原因引起的局部或全面的罢工或闭工或停工或劳动制；暴动或骚乱
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+20. ISSUANCE AND TERMS OF BILLS OF LADING 提单的签发及提单条款(a)   The Master shall, upon request, sign Bills of Lading in the form appearing below for all cargo shipped but without prejudice to the rights of the Owner and Charterer under the terms of this Charter. The Master shall not be required to sign Bills of Lading for any port which, the Vessel cannot enter, remain at and leave in safety and always afloat nor for any blockaded port.(b) The carriage of cargo under this Charter Party and under all Bills of Lading issued for the cargo shall be subject to the statutory provisions and other terms set forth or specified in sub­paragraphs (i) through (vii) of this clause and such terms shall be incorporated verbatim or be deemed incorporated by the reference in any such Bill of Lading. In such sub­paragraphs and in any Act referred to therein, the word 'carrier' shall include the Owner and the Chartered Owner of the Vessel.(a) 船长应根据要求就所有装运货物签发如下格式的提单，但所签发的提单应无损于本租约下船东和承租人的权利。船长不应被要求签发提单，如该提单上记载的任何港口本船无法安全驶入、停留和驶离并始终浮泊，或提单记载的任何港口被封锁。(b) 根据本租船合同的货物运输合同，和为货物签发的提单下所涉的货物运输合同，都应受限于法定条文和本条以下（i）至（vii）款的规定，而该规定应当被逐字的并入或通过在提单中提及的方式视为并入提单。以下款项和其所提及的任何法案中的“承运人”一词应包括船东和本船承租船东。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(i)   CLAUSE PARAMOUNT.This Bill of Lading shall have effect subject to the provisions of the Carriage of Goods by Sea Acts of the United States, approved April 16, 1936, except that if this Bill of Lading is issued at a place where any other Act, ordinance or legislation gives statutory effect to the International Convention for the Unification of Certain Rules relating to Bills of Lading at Brussels, August 1924, then this Bill of Lading shall have effect, subject to the provisions of such Act, ordinance or legislation. The applicable Act, ordinance or legislation (hereinafter called the 'Act') shall be deemed to be incorporated herein and nothing herein contained shall be deemed a surrender by the Owner of any of its rights or immunities or an increase of any of its responsibilities or liabilities under the Act. If any term of this Bill of Lading be repugnant to the Act to any extent, such term shall be void to the extent but no further.（i）首要条款本提单应受1936年4月16日通过的《美国海上货物运输法》的约束。但如在本提单签发地，其他法案、法令或立法赋予1924年8月《布鲁塞尔统一提单若干规则的国际公约》以成文法效力，则本提单应受此种法案、法令或立法规定的约束。此种所适用的法案、法令或立法（以下称“法案”）应视为并入本提单，并且，本提单中的任何规定都不应视为船东放弃根据法案所享有的任何权利或豁免，或增加其根据法案应承担的义务或责任。如本提单中的条款与法案相抵触，则此种条款无效，但以所抵触的部分为限。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(ii)  JASON CLAUSE.In the event of accident, danger, damage or disaster before or after the commencement of the voyage, resulting from any cause whatsoever, whether due to negligence or not, for which, or for the consequence of which, the Owner is not responsible, by statute, contract or otherwise, the cargo shippers, consignees or owners of the cargo shall contribute with the Owner in General Average to the payment of any sacrifices, losses or expenses of a General Average nature that may be made or incurred and shall pay salvage and special charges incurred in respect of the cargo. If a salving ship is owned or operated by the Owner, salvage shall be paid for as fully as if the said salving ship or ships belonged to strangers. Such deposit as the Owner or his agents may deem sufficient to cover the estimated contribution of the cargo and any salvage and special charges thereon shall, if required, be made by the cargo, shippers, consignees or owners of the cargo to the carrier before delivery.（ii）杰森条款如在航次开始之前或之后，由于无论是疏忽与否的任何原因而引起事故、危险、损害或灾难，而根据法令、合同或其他规定，船东对此或其后果概不负责，则货物、托运人、收货人或货物所有人应在共同海损中与船东一起分摊可能构成或可能发生的具有共同海损性质的牺牲、损失或费用，并应支付有关货物所发生的救助报酬和特殊费用。如救助船为承运人所有或由其经营，其救助报酬应犹如该救助船系为他人所有一样全额支付。船东或其代理人认为足以支付货物的预计分摊款额及其救助报酬和特殊费用的保证金，如经要求，应由货物托运人、收货人或货物所有人在提货之前付给船东。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(iii) GENERAL AVERAGE.General Average shall be adjusted, stated and settled according to York/Antwerp Rules 1950 and, as to matters not provided for by those rules, according to the laws and usages at the port of New York or at the port of London, whichever place is specified in Part I of this Charter. If a General Average statement is required, it shall be prepared at such port or place in the United States or United Kingdom,whichever country is specified in Part I of this Charter, as may be selected by the Owner, unless otherwise mutually agreed, by an Adjuster appointed by the Owner and approved by the Charterer. Such Adjuster shall attend to the settlement and the collection of the General Average, subject to customary charges. General Average Agreements and/or security shall be furnished by Owner and/or Charterer, and/or Owner and/or Consignee of cargo, if requested. Any cash deposit being made as security to pay General Average and/or salvage shall be remitted to the Average Adjuster and shall be held by him at his risk in a special account in a duly authorized and licensed bank at the place where the General Average statement is prepared.(iii) 共同海损共同海损应按《1950年约克一安特卫普规则》理算、解释和解决。有关该规则未规定的事宜，按纽约港或伦敦港（以第I 部分中选择的地点为准）的法律和习惯处理。如要求编制共同海损理算书，则应在美国或英国（以第I 部分中选择的国家为准）由船东选择的港口或地点（除双方共同约定的情形下），由船东指承租人认可的理算师编制。该理算师需参加共同海损的解决和材料的收集，并收取习惯费用。如经要求，船东和/或承租人，和/或货物的所有人和/或收货人应提供共同海损协议和/或担保。作为共同海损和/或救助报酬担保而交存的任何现金，应汇给海损理算师并由其保存并承担风险，存入编制共同海损理算书地点的经适当授权的有证银行的特别账户。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(iv) BOTH TO BLAME.If the Vessel comes into collision with another ship as a result of the negligence of the other ship and any act, neglect or default of the Master, mariner, pilot or the servants of the Owner in the navigation or in the management of the Vessel, the owners of the cargo carried hereunder shall indemnify the Owner against all loss or liability to the other or non­-carrying ship or her owners in so far as such loss or liability represents loss of, or damage to, or any claim whatsoever of the owners of said cargo, paid or payable by the other or recovered by the other or non-carrying ship or her owners as part of their claim against the carrying ship or Owner. The foregoing provisions shall also apply where the owners, operators or those in charge of any ships or objects other than, or in addition to, the colliding ships or object are at fault in respect of a collision or contact.（iv） 互有责任碰撞条款如本船由于他船疏忽以及本船船长、船员、引航员或船东的受雇人在驾驶或管理船舶中的行为、疏忽或不履行职责而与他船碰撞，则根据本合同承运的货物的所有人，应就船东的一切损失或其对他船亦即非载货船舶或其所有人的赔偿责任；给船东以补偿但此种补偿应以上述损失或赔偿责任所体现的已由或应由他船亦即非载货船舶或其所有人付给上述货物的所有人的货物灭失或损坏或其提出的任何索赔的数额为限，且这种损失或赔偿责任已由他船亦即非载货船舶作为其向载货船舶或船东提出的索赔的一部分，将其抵消、扣除或追回。如果非属相碰船舶或物体的、或在相碰船舶或物体之外的任何船舶或物体的所有人、经营人或主管人在碰撞、触碰、搁浅或其他事故中犯有过失时，上述规定亦应适用。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(v)  LIMITATION OF LIABILITY.Any provision of this Charter to the contrary notwithstanding, the Owner shall have the benefit of all limitations of, and exemptions from, liability accorded to the owner or chartered owner of vessels by any statute or rule of law for the time being in force.（v）责任限制即使本租船合同另有相反规定，船东仍享有现行法律或法规赋予本船船东或承租船东的各种赔偿责任限制、免责。(vi) WAR RISKS.(a)   If any port of loading or of discharge named in this Charter Party or to which the Vessel may properly be ordered pursuant to the terms of the Bills of Lading be blockaded, or（vi）战争风险(a)如本租船合同订明的任何装货港或卸货港，或根据提单条款本船可能被适当的指示前往的港口被封锁，或
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+（b） If owing to any war, hostilities, warlike operations, civil war, civil commotions, revolutions or the operation of international law (a) entry to any such port of loading or of discharge or the loading or discharge of cargo at any such port be considered by the Master or Owners in his or their discretion dangerous or prohibited or (b) it be considered by the Master or Owners in his or their discretion dangerous or impossible for the Vessel to reach any such port of loading or discharge­ the Charterers shall have the right to order the cargo or such part of it as may be affected to be loaded or discharged at any other safe port of loading or of discharge within the range of loading or discharging ports respectively established under the provisions of the Charter Party (provided such other port is not blockaded or that entry thereto or loading or discharge of cargo thereat is not in the Master's or Owner's discretion dangerous or prohibited). （b）如由于战争、敌对行为、类似战争的行动、内战、暴乱、革命或国际法的行动，船长或船东根据其判断认为进入此种装货港或卸货港或者在此种港口内装货或卸货有危险或被禁止；或船长或船东根据其判断认为本船驶抵此种装货港或卸货港有危险或不可能则承租人有权指令可能受影响的全部货物或其中一部分在其它安全港口装货或卸货（但此种其他港口不是被封锁的港口，或者船长或船东根据其判断不认为进入该港或在该港装货或卸货有危险或被禁止），前述其它安全港口需在本租船合同规定的装货港或卸货港区间范围内。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+If in respect of a port of discharge no orders be received from the Charterers within 48 hours after they or their agents have received from the Owners a request for the nomination of a substitute port, the Owners shall then be at liberty to discharge the cargo at any safe port which they or the Master may in their or his discretion decide on (whether within the range of discharging ports established under the provisions of the Charter Party or not) and such discharge shall be deemed to be due fulfillment of the contract or contracts of affreightment so far as cargo so discharged is concerned. In the event of the cargo being loaded or discharged at any such other port within the respective range of loading or discharging ports established under the provisions of the Charter Party, the Charter Party shall be read in respect of freight and all other conditions whatsoever as if the voyage performed were that originally designated. In the event, however, that the Vessel discharges the cargo at a port outside the range of discharging ports established under the provisions of the Charter Party, freight shall be paid as for the voyage originally designated and all extra expenses involved in reaching the actual port of discharge and or discharging the cargo thereat shall be paid by the Charterers or Cargo Owners. In the latter event the Owners shall have a lien on the cargo for all such extra expenses.关于卸货港，如在承租人或其代理人收到船东关于指定替代港口的要求后48小时内，船东未收到承租人的指示，则船东有权利选择将货物卸于一个船长或船东决定的其他的安全港口(不论该港是否在本租船合同确定的卸货港范围区间之内)，且就所卸货物而言，此种卸载应视为已适当地履行运输合同。如货物在本租船合同规定的装货港或卸货港各自范围内的其他港口装货或卸货，则就运费及其他各种条件而言，所履行的航次应如同本租船合同原定的装货港或卸货港一样，但如货物是在本租船合同规定的卸货港范围之外的某一港口卸货，运费应按原定航次支付，有关抵达实际卸货港和／或在那里卸货的各种额外费用，应由承租人或货主支付。在后者情况下，船东因此种额外费用对货物享有留置权。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(c)   The Vessel shall have liberty to comply with any directions or recommendations as to departure, arrival, routes, ports of call, stoppages, destinations, zones, waters, delivery or in any otherwise whatsoever given by the government of the nations under whose flag the Vessel sails or any other government or local authority including any de facto government or local authority or by any person or body acting or purporting to act as or with the authority of any such government or authority or by any committee or person having under the terms of the war risks insurance on the vessel the right to give any such directions or recommendations. If by reason of or in compliance with any such directions or recommendations, anything is done or is not done such shall not be deemed a deviation. （c）本船可自由的服从船旗国政府，或其他任何政府、地方当局（包括任何事实上的政府或地方当局），或代表或声称代表此种政府或当局，或经此种政府或当局授权的个人或团体发出的任何有关船舶离港、到港、航线、挂靠港、停航、目的港、航区、水域、交货或其他方面的指令或建议，或任何委员会或个人根据船舶战争险条款有权发出的此种指令或建议。如由于或因服从此种指令或建议所作的行为或不为，均不得视为违约。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+If by reason of or in compliance with any such direction or recommendation the Vessel does not proceed to the port or ports of discharge originally designated or to which she may have been ordered pursuant to the terms of the Bills of Lading, the Vessel may proceed to any safe port of discharge which the Master or Owners in his or their discretion may decide on and there discharge the cargo. Such discharge shall be deemed to be due fulfillment of the contract or contracts of affreightment and the Owners shall be entitled to freight as if discharge has been effected at the port or ports originally designated or to which the vessel may have been ordered pursuant to the terms of the Bills of Lading. All extra expenses involved in reaching and discharging the cargo at any such other port of discharge shall be paid by the Charterers and/or Cargo Owners and the Owners shall have a lien on the cargo for freight and all such expenses.如由于或因服从此种指令或建议，本船未驶往原定的卸货港，或根据提单条款可能指示本船前往的港口，本船可驶往船长或船东根据其或其们判断决定的任何安全的卸货港并在该处卸下货物。此种卸货应视为已适当地履行运输合同，且船东有权按货物在原定港口卸货或根据提单条款本船可能被指示前往的港口卸货收取运费。有关抵达此种其他卸货港并在该处卸货的各种额外费用应由承租人和/或货主支付，船东就运费和所有此种费用对货物享有留置权。
+
+Asbatankvoy Part II – 提单的签发及提单条款
+
+(vii) DEVIATION CLAUSE.The Vessel shall have liberty to call at any ports in any order, to sail with or without pilots, to tow or to be towed, to go to the assistance of vessels in distress, to deviate for the purpose of saving life or property or of landing any ill or injured person on board, and to call for fuel at any port or ports in or out of the regular course of the voyage. Any salvage shall be for the sole benefit of the Owner.（vii）绕航条款本船可自由的以任何顺序挂靠任何港口，航行时可以有引航员也可以无引航员，可进行拖带或被拖带，援助处于困难的船舶，为救助人命或财产或使船上生病或受伤人员登岸之目的而绕航，以及为添加燃油而挂靠位于正常航线之上或之外的任何港口。任何救助报酬的受益人仅是船东。
+
+Asbatankvoy Part II—留置权、违约、转租
+
+21. LIEN. 留置权The Owner shall have an absolute lien on the cargo for all freight, deadfreight, demurrage and costs, including attorney fees, of recovering the same, which lien shall continue after delivery of the cargo into the possession of the Charterer, or of the holders of any Bills of Lading covering the same or of any storageman.船东就所有运费、亏舱费、滞期费和为得到此种费用而花的包括律师费在内的各种费用而对货物享有绝对留置权。此留置权应延续至货物交于承租人或此货物的提单持有人或仓库保管人占有之后。22. AGENTS.代理The Owner shall appoint Vessel's agents at all ports.   船东应在所有港口指定本船的代理人。23. BREACH.违约Damages for breach of this Charter shall include all provable damages, and all costs of suit and attorney fees incurred in any action hereunder.违反本租船合同的损害赔偿应包括所有可证明的损害，以及因此进行的法律程序中发的一切诉讼费和律师费。25. SUBLET. 转租Charterer shall have the right to sublet the Vessel. However, Charterer shall always remain responsible for the fulfillment of this Charter in all its terms and conditions.承租人有权转租本船，但承租人始终负有按本租船合同的一切条款和条件履行本租约的责任。
+
+Asbatankvoy Part II—仲裁
+
+24. ARBITRATION.仲裁Any and all differences and disputes of whatsoever nature arising out of this Charter shall be put to arbitration in the City of New York or in the City of London whichever place is specified in Part I of this charter pursuant to the laws relating to arbitration there in force, before a board of three persons, consisting of one arbitrator to be appointed by the Owner, one by the Charterer, and one by the two so chosen. The decision of any two of the three on any point or points shall be final. Either party hereto may call for such arbitration by service upon any officer of the other, wherever he may be found, of a written notice specifying the name and address of the arbitrator chosen by the first moving party and a brief description of the disputes or differences which such party desires to put to arbitration. If the other party shall not, by notice served upon an officer of the first moving party within twenty days of the service of such first notice, appoint its arbitrator to arbitrate the dispute or differences specified, then the first moving party shall have the right without further notice to appoint a second arbitrator, who shall be a disinterested person with precisely the same force and effect as if said second arbitrator has been appointed by the other party. 因本租船合同引起的任何性质的分歧和争议，均应在纽约或伦敦（以第一部分 明确的地点为准）提交由三名仲裁员组成的仲裁庭，依据当地实施的有关仲裁的法律进行仲裁。其中一名仲裁员由船东指定，一名由承租人指定，另一名由所指定的两名仲裁员选定。三人中任何两人就任何问题作出的决定应是终局的。任何一方均可向另一方的一名高级职员（不论其在处）送达书面通知而提请此种仲裁。通知中应指明首先提议的一方指定的仲裁员的姓名和地址及该方希望提交仲裁的争议或争执的简要说明。如另一方未在收到首次通知后20天之内向首先提议的一方的一名高级职员送达通知，指定仲裁员对载明的争议进行仲裁，则最初提议的一方将有权指定第二名仲裁员，而无需进一步通知另一方。该仲裁员应是一客观公正的人，其如同由另一方指定的一样，具有完全相同的效力。
+
+Asbatankvoy Part II—仲裁
+
+In the event that the two arbitrators fail to appoint a third arbitrator within twenty days of the appointment of the second arbitrator, either arbitrator may apply to a Judge of any court of maritime jurisdiction in the city above­mentioned for the appointment of a third arbitrator, and the appointment of such arbitrator by such Judge on such application shall have precisely the same force and effect as if such arbitrator had been appointed by the two arbitrators. Until such time as the arbitrators finally close the hearings either party shall have the right by written notice served on the arbitrators and on an officer of the other party to specify further disputes or differences under this Charter for hearing and determination. Awards made in pursuance to this clause may include costs, including a reasonable allowance for attorney's fees, and judgement may be entered upon  any award made hereunder in any Court having jurisdiction in the premises.如在指定第二名仲裁员后20天之内，两名仲裁员未能选定第三名仲裁员，则其中任一仲裁员均可申请上述城市中具有海事管辖权的法院的法官指定第三名仲裁员。该法院根据此种申请指定的仲裁员，如同其系两名仲裁员选定时一样，具有完全相同的效力。在仲裁员最终结束审理案件之前，任何一方均有权向仲裁员及另一方的一名高级职员送达通知，说明进一步提交审理和裁断的分歧或争议。根据本条做出的裁决可列明各种费用，包括合理的律师费用，并且，对因此作出的仲裁裁决，仲裁地点任何有管辖权的法院可能基于仲裁裁决作出判决。
+
+Asbatankvoy Part II — 油污条款
+
+26. OIL POLLUTION CLAUSE.Owner agrees to participate in Charterer's program covering oil pollution avoidance. Such program prohibits discharge overboard of all oily water, oily ballast or oil in any form of a persistent nature, except under extreme circumstances whereby the safety of the vessel, cargo or life at sea would be imperiled.Upon notice being given to the Owner that Oil Pollution Avoidance controls are required, the Owner will instruct the Master to retain on board the vessel all oily residues from consolidated tank washings, dirty ballast, etc., in one compartment, after separation of all possible water has taken place. All water separated to be discharged overboard.If the Charterer requires that demulsifiers shall be used for the separation of oil/water, such demulsifiers shall be obtained by the Owner and paid for by Charterer.26.油污条款船东同意参与承租人的防止油污污染计划。此项计划禁止向船外排放所有带油的污水、带油的压载水或任何持久性油类，但本船、货物或海上人命安全遭受危险的极端情况除外。船东一旦收到要求采取防止油污措施的通知，便应指示船长将收集的洗舱水、污压舱水等油类残余物尽可能地分离水分后，集中于一分隔舱。被分离的水排出船外。如承租人要求使用反乳化剂分离油水，则此种反乳化剂应由船东提供，但由承租人承担费用。
+
+Asbatankvoy Part II — 油污条款
+
+The oil residues will be pumped ashore at the loading or discharging terminal, either as segregated oil, dirty ballast or co­mingled with cargo as it is possible for Charterers to arrange. If it is necessary to retain the residueon board co­mingled with or segregated from the cargo to be loaded, Charterers shall pay for any deadfreight so incurred.Should it be determined that the residue is to be co­mingled or segregated on board, the Master shall arrange that the quantity of tank washings be measured in conjunction with cargo suppliers and a note of the quantity measured made in the vessel's ullage record.The Charterer agrees to pay freight as per the terms of the Charter Party on any consolidated tank washings, dirty ballast, etc., retained on board under Charterer's instructions during the loaded portion of the voyage up to a maximum of 1% of the total deadweight of the vessel that could be legally carried for such voyage. Any extra expenses incurred by the vessel at loading or discharging port in pumping ashore oil residues shall be for Charterer's account, and extra time, if any, consumed for this operation shall count as used laytime.油类残余物，无论是经分离的油类、污压舱水还是与货物掺杂的油类，若承租人可以安排，应在装货或卸货港泵至岸上。如有必要将油类残余物留在船上与拟装的货物掺杂或分离，承租人应支付因此产生的亏舱费。如决定将残余物留在船上与货物掺杂或分离，船长应安排与供货人一起测定洗舱水的数量，并将测数量记入本船空挡报告。承租人同意对根据其指示在载货部分航程中留在船上的洗舱水、污压载水等按本租船合同规定支付运费，但其数量不超过本船在该航次合法总载重量的1％。本船在装货或卸货港将油类残余物泵至岸上的各种额外费用应由承租人承担，且如此项作业花费了额外时间，所花费时间应计为已使用的装卸时间。
+
+Sinochem Standard Terms April 2008
+
+1. Worldscale terms and conditions as of date of Charter Party to apply.2. Owner to remain a member of itopf throughout the entire duration of this c/p3. General Average/arbitration in London, English Law to apply.4. York/Antwerp Rules 1974 to apply as ammended 1994.6. Vessel agents shall be nominated by Charterers at loading and discharge port(s) provided competitive.  Customary agency fees shall be for Owners' account7. vessel to perform laden speed at about 13 knots weather and safe navigation permitting.'.8. No freight on slops carried, if any.add 'unless charterer advises owners to load on top‘9. Freight tax (including Chinese freight tax of 4.175% in China) in load and/or discharge port(s), if any, to be for charterers account.10. Freight payable in United States Dollars to Owners' designated bank via telegraphic transfer 3 working days after receipt of Owners' confirmation of completion of discharge.11.  Should a dispute arise between Owners and the Charterer, both parties will endeavor to settle the matter in dispute amicably otherwise same to be settled in London by arbitration as per Charter Party.12.  Owners  warrant  that  vessel  to  proceed  directly  to  discharge  port  after  loading. any bunkering is only allowed with charterers sanction,except for emergency situation.13. This fixture has to be kept strictly private and confidential.
+
+Sinochem Clauses April 2008
+
+1. Clean Ballast ClauseThe vessel should arrive at load port with clean ballast water in SBT only. 2. Shifting ClauseIf more than one berth at load or discharge ports is used, shifting expenses to be for Charterers' account, except that shifting expenses from anchorage to first berth will not be for Charterers' account.3. Bill of Lading Indemnification Clause（LOI）In the event the original Bill of Lading does not arrive at the port(s) of ultimate discharge prior to the vessel's arrival, the Owners shall release and discharge the entire cargo in accordance with the Charterers' telex instructions and Charterers agree to indemnify and hold Owners harmless from and against any and all claims, demands or liabilities in connection with or arising out of the discharging of the cargo without presentation of such original Bill of Lading.Charterer also to provide Owners with a telex Letter of Indemnity with wording as per Owners' P and I Club.  It is understood that no bankers guarantee nor countersigning of Letter of Indemnity by bankers shall be requiredLetter of Indemnity shall automatically become null and void against presentation of  3(three) original Bill of Lading.
+
+Sinochem Clauses April 2008
+
+4. Amoco Claims Clause ­ 90 DaysOwners agree to invoice Charterers for all charges and claims arising from this Charter Partyexcept claims arising under bills of lading, including but not limited to, demurrage, deadfreight, deviation and shifting, within 90 days from the completion of discharge, Charterers will not be responsible for any charges or claims not submitted within the time specified.5. Warranty Clause(a) Owners warrant the vessel have no pollution, strandings（搁浅）, or any serious accidents within the last 12(twelve) months from the date of this Charter Party.(b) Owners warrant the vessel is in all respects eligible for trading within, to and from ranges and areas specified in Charter Party, and that for all necessary times she shall have on board fully valid CLC/ITF or equivalent and all necessary certificates required for such service.Any delay and consequential damages/losses suffered by the Charterers due to non­compliance by the Owners of the above warranties (a) to (d) to be for Owners' account.7. ETA ClauseMaster/Owners to give Charterers, suppliers and load port agent notices of arrival at load port immediately and where applicable, every 5 days and then 96, 72, 48, 24, and 12 hours notice. Master/Owners also to provide Charterer, receivers and discharge port agent notices of arrival discharge port immediately after sailing load port and where applicable followed by every 5 days, and then 96, 72, 48, 24, and 12 hours, failing which the Charterers shall have no liability for demurrage for the period of delay caused by failure to give such notice.
+
+Sinochem Clauses April 2008
+
+8. Cleaning Clause(b) For Crude Oil: As per Asbatankvoy Charter Party. add 'any time/costs including de­inerting and re­inerting for inspection to be for charterers account.‘9. Amoco Cargo Retention（ROB）In the event that any cargo remains on board upon completion of discharge Charterer shall have the right to claim from owners(deduct from freight）an amount equal to the FOB port loaded value of such cargo plus freight due with respect thereof, provided that the volume of cargo remaining on board is liquid,pumpable,reachable by vessels pumping equipment as determined by an mutually agreed independent surveyor.Any action or lack of action in accordance with this provision shall be without prejudice to any rights or obligations of the parties.10. IGS ClauseOwners warrant the vessel is equipped with a fully operational inert gas system.
+
+Sinochem Clauses April 2008
+
+11. Spillage Clause 泄漏条款Prior to commencement of loading or discharging operations, all overboard lines are to be checked to insure they are securely closed. All other precautions are to be taken to avoid any spillage and/or leakage. If during loading or discharging operations there is any indication of a spillage or leakage, the vessel shall immediately cease all pumping operations and notify shore personnel. The vessel shall not resume loading or discharging until a thorough investigation is conducted and appropriate remedies taken.12. Afran Vessel to Vessel Lighterage Clause 海上过驳条款If requested by Charterers, Owners agree that vessel will perform a vessel to vessel lighterage operation at sea at a safe location other than the customary anchorage for the discharge port(s), in which event, Charterers will provide the lighterage vessel, mooring master, fenders, hoses and all other equipment necessary for a safe operation.All time consumed from vessel's arrival at the lightering site until the cargo hoses are disconnected shall count as used laytimeThe lightering location shall not count as an additional discharge port or discharge berth in the determination of freight payable per published Worldscale rates.any deviation costs incurred due to lightering at non customary lighterage positions to be for charterers account .costs are defined as bunkers consumed and time to be paid at demurrage rate.'本条款为卸港条款，在海上过驳或其他非习惯锚地过驳，从船舶到达过驳地点开始，到拆管截止，所有时间均计入laytime，不考虑NOR+6，不论天气好坏及其他延误。由租家承担绕航费用。
+
+Sinochem Clauses April 2008
+
+13. Afran (Gulf) Lighterage Clause 锚地过驳条款If lightering is required prior to berthing at any designated port, and it is necessary to lighter the vessel while at a customary lightering anchorage, time used in lightering shall count as used laytime and shall commence six(6) hours after anchoring and presentation of Notice of Readiness or when the first is moored alongside, whichever first occurs.  The lightering lightering craft anchorage shall not be considered as an additional discharge port nor an additional discharge berth and running time from the anchorage to the berth shall not count as used laytime or demurrage if allowed laytime has expired.本条款也为卸港条款，在习惯锚地过驳，laytime起算时间为NOR+6或过驳船舶系固，以两者早者为准。14. Texaco Crude Oil Washing Clause 原油洗舱条款Vessel will routinely employ Crude Oil Washing (COW) on discharge in accordance with the procedure  described  in  the  ICS/OCIMF "Guidelines for Tank  Washing  with  Crude  Oil"  in  the absence of express contrary instructions of the Charterers or prohibition by port or terminal regulations. Any delay to the vessel occurring solely as a result of COW operations shall count as used anytime or if the vessel if on demurrage, as demurrage.Owners agree to comply with applicable port and terminal regulations, and as necessary, to submit any advance information or technical data that may be required by local authorities relative to the conduct of COW operations. Owners further agree that a representative of the Charterer may attend the discharge to monitor cargo operations.
+
+Sinochem Clauses April 2008
+
+15. FMC Clause 美国联邦海事委员会证书Owner warrants to have secured and carries aboard the vessel a U.S. Federal Maritime Commission's Certificate of Financial Responsibility as required under the U.S. Water Quality Improvement Act of 1970 (effective 0001/April 3, 1971), as amended.Any delay or expense to the vessel resulting from non compliance with this warranty shall be for Owners' account and such delay will not count as used laytime or demurrage if allowed laytime has expired.16. USCG Compliance Clause  美国海岸警卫队服从条款Owners warrant that during the term of the Charter the vessel will be in full compliance with all U.S. Coast Guard and safety regulations as contained in, but not limited to, titles 33 and 46 of the code of Federal Regulations as amended. Any delay or expense to the vessel resulting form non compliance with this warranty shall be for Owners' account and such delay will not count as used laytime or demurrage if allowed laytime has expired.17. Heating ClauseHeating throughout voyage at Owners‘ option but Owners guarantee maximum heat 135 degrees Fahrenheit（57.22℃）and minimum 125 degrees Fahrenheit（51.67℃） temperature on vessel’s arrival discharge port and throughout discharge. （不适用与vlcc，不同油种规定不同）
+
+Sinochem Clauses April 2008
+
+18. Canal TollSuez or Panama Canal toll if applicable, shall be for Owners' account.19. Address Commission2.50% address commission to charterer  on freight, deadfreight and demurrage payable by Owners.  Such address commission is deductible by Charterers from freight, and if any, deAdfreight and demurrage.20. Slop ClauseSlop if any, will not be permitted to be discharged at loadport.22. Bunker ClauseCharterers shall have the option of supplying bunkers required for performing this Charter if available, provided that prices and quality are competitive.  In the event that Owners are able to obtain bunkers at a price lower than that quoted by Charterers, then Owners shall give Charterers a further opportunity to meet such lower price.
+
+Sinochem Clauses April 2008
+
+21. Corpus Christi Clause 不适用Owners warrant that vessel does not exceed 174 feet from keel to the highest fixed point on the vessel.  Owners also warrant vessel is able to clear bridge height limit of 138 feet mean high water (it is understood safe craft at Corpus Christi mean high water is 39 feet salt water).  Furthermore Owners also warrant that the vessel complies with the following restrictions:1. Loa 1,000 feet maximum（304.8m）2. Beam 140 feet maximum（42.67m）3. Deadweight 120,000 metric tons maximum(Owners to advise on a arrival draft 45 feet at Corpus Christi, what is vessel's maximum loadable cargo quantity).If on arrival a Corpus Christi or other U.S. gulf ports, vessel is found to be not in compliance with any of above restrictions and warranties, all delay to vessel, expense of lightering and any consequential expenses or losses suffered by Charterers shall be for Owners' account and responsibility.
+
+Unipec Special Provisions April 2008
+
+1. Taxes and dues ClauseAny taxes and/or dues levied on cargo and/or freight if any provided not covered by worldscale, to be for charterer’s account. The same to be settled first by the owners, then charterer will reimburse the owners the same upon receipt of owners’ signed and stamped invoice together with supporting documents in terms of stamped invoice issued by loading port or its agent within 90 days after completion of loading. Charterers will not be responsible for any charges/claims not submitted within the time specified.3. Ballast operations ClauseOwners guarantee that the vessel is able to load cargo and deballast concurrently and discharge and take ballast concurrently.7. Shell oil pollution insurance ClauseOwners warrant that they have in place insurance cover for Oil Pollution for the maximum on offer through the International Group of P and I Clubs（保赔协会） (currently US$ 500 million covered by the P and I Club ) and that this cover will remain in place throughout the period of this Charter.8. War risk ClauseAny/all additional war risk premium on vessel hull and machinery value to be for charterers account payable against owners supporting documents, payable together with freight. Crew war bonus/ insurance/blocking and trapping to be for owners account. Any discount or rebate refunded to owner shall be passed on to charterers."
+
+Unipec Special Provisions April 2008
+
+9. Overage ClauseAny cargo loaded in excess of the minimum quantity agreed to be assessed at 50 percent of the agreed WS rate.10. Payment ClauseAny payment including but not limited to freight, demurrage, tax or dues, additional cost should only be made upon charterer's receipt of owners' original signed and stamped invoice indicating the exact gross and/or net amount due. Charterer will pay the freight within 3 working days after completion of discharge if freight invoice reaches the charterer at least a week prior to vessel's arrival at discharge port(s).11. ETA ClauseAfter clean fixing, owners/vessel shall advise every day eta, noon position, distance to go, speed, rpm, weather/sea conditionsand other items as stipulated in charterer‘s voyage order and/or other instructions from the charterer, as well as other necessary information in respect of complying with load or discharge port regulations. In case of any preceding port(s), owners/vessel shall advise daily berthing prospect, loading or discharging status, etd. Owners/vessel shall advise immediately and variation of eta in excess of 6 hours. In the event of a breach of the above undertaken, any loss, damage, expense or delay following therefrom shall be for owner’s account.
+
+Unipec Special Provisions April 2008
+
+12. Demurrage ClausePrinciple of "once on demurrage, always on demurrage" shall not to apply to this charter party.13. Final voyage ClauseOwners guarantee that voyage to be performed shall not be the last prior to scrapping the vessel.14. ISM Clause 国际安全管理规则From the date of coming into force of the international safety management (ism) code in relation to the vessel and thereafter during the currency of this charterparty, the owners shall procure  that both the vessel and the company (as defined by the ism code) shall comply with the requirements of the ism code. Upon request the owners shall provide a copy of the relevant document of compliance(doc) and safety management certificate (smc) to the charterers. Except as otherwise provided in this charterparty, loss, damage, expense or delay caused by  failure on the part of the owners or the company to comply with this caluse shall be for owners account.15. SBT Clause （segregated ballast tank）Vessel is a sbt ship.
+
+Unipec Special Provisions April 2008
+
+16. ITOPF ClauseOwners warrant that vessel is entered with the ITOPF at the commencement of this charter and will so remain during its term.17. CLC certificate Clause 油污损害民事责任保险或其它财务保证证书Owners/master  warrant  that  vessel  will  carry  on  board  a  valid  CLC  certificate  during  this charterparty. （Certificate of Insurance or Other Financial Security in Respect of Civil Liability for Oil Pollution Damage）18. Bunker ClauseVessel shall be fully bunkered to perform laden voyage, and not to bunker enroute on laden passage except otherwise with charterers' consent. Vessel will proceed with utmost dispatch to discharge port(s).22. Interim voyage ClauseThe vessel shall not perform interim voyage without prior consent from the charterers which shall not be unreasonably withheld.
+
+Iris Li
+
+谢谢大家！
+
+*
+
+Asabatankvoy clause 2-3
+
+*
+
+clause 5 如果在解约日4点前船没有准备好，那么租家有权取消合同，在解约日24小时内，否则合同依然有效。Sinochem，船在1600后到，laytime起算时间。
+
+*
+
+clause5之前讲laytime时讲过了
+
+*
+
+strandings 搁浅  eligible合格的 (C)(D)删除了 6. pumping clause讲过了
+
+*
+
+toll 通行费
+
+*

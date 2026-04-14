@@ -320,6 +320,57 @@ status: incubating
 - **China's amended Regulation on Safety Supervision and Management of Ships Carrying Dangerous Goods takes effect on March 1, 2025** `[mechanism]`
 - Shanghai customs handles over 20% of China's trade volume `[volume]`
 
+### From `AWRP分享_3895f186.txt` (2026-04-14)
+- **AWRP insurance fee calculation formula: Ship Value × Rate = Insurance Premium** `[formula]`
+- **Joint War Committee (JWC) designated Joint War Listed Areas (JWLA) where vessels entering must pay additional war risk premium** `[mechanism]`
+- **2019 JWC update added Oman, UAE, waters west of 58°E longitude in Gulf of Oman and Persian Gulf (Arabian Gulf) to war risk premium areas** `[mechanism]`
+- **War risk insurance covers losses from: (1) war, civil war, insurrection and hostile acts between belligerents; (2) seizure, detention, restraint from such acts; (3) abandoned mines, bombs or other war weapons** `[mechanism]`
+- **War risk insurance terminates early only in four cases: (1) nuclear war; (2) war between UN Security Council permanent members; (3) vessel requisition or capture; (4) 7-day advance notice termination by insurer or insured** `[mechanism]`
+- **Claim amount: $83,482.08 USD with estimated amount at clearance of $21,642 USD, showing significant variance** `[price]`
+- **Ship owner agreed to pay AWRP for segments 3, 4, and 5 totaling $9,464.29 USD** `[price]`
+- **Sikka to Fujairah segment AWRP is for vessel bunkering, to be borne by ship owner; Fujairah to Mina Al Fahal segment is normal loading voyage route to be borne by charterer** `[mechanism]`
+- **AWRP insurance premium rates lack unified standard; pricing varies by insurance company, international political conditions, and inter-company competition** `[mechanism]`
+- **Recommended procedure: (1) Request AWRP estimate from supplier at bill of lading stage (critical); (2) Upon receiving AWRP claim, if variance exists with estimate, require supplier explanation with supporting evidence (insurance policy, insurance agreement, calculation process, invoices, charter party, GTC)** `[mechanism]`
+
+### From `报关流程总结_707ef1d9.txt` (2026-04-14)
+- **Yingkou Port customs clearance timeline: 15 calendar days total (11 working days) from preparation of customs bond documentation to issuance of tax guarantee** `[mechanism]`
+- **Customs bond cost calculation formula: 67,000,000 CNY × 4.5% × 20/360 days + 19,000,000 CNY × 4.5% × 25/360 days = 226,875 CNY** `[formula]`
+- **Tax guarantee cost calculation: 6,700,000 CNY × 4.5% × 60/360 days + 67,000,000 CNY × 0.1% = 117,250 CNY** `[formula]`
+- **Estimated cost savings from tax guarantee for contract C170430SGSS-A: approximately 110,000 CNY** `[price]`
+- **Import permit floating allowance: ±3% tolerance for bulk cargo (crude oil, refined oil, fertilizer, steel) overage/shortage per customs regulation** `[mechanism]`
+- **Year-to-date permit application volume (through Order 34): 4,455,180 metric tons** `[volume]`
+- **Year-to-date settlement volume (through Order 34): 4,483,764.94 metric tons** `[volume]`
+- **Import permit quota savings through 3% upward floating provision: 28,584.94 metric tons** `[volume]`
+- **Strategy implemented from Order 18 onwards: permit application volume set at 2% discount to bill of lading or warehouse receipt quantity** `[mechanism]`
+- **Dalian Port advantage: operates as bonded tank facility allowing cargo discharge prior to customs clearance release** `[entity_detail]`
+- **Yingkou Port disadvantage: non-bonded tank facility requires advance customs clearance before vessel discharge operations** `[entity_detail]`
+- Dalian Customs strictness: enforces stringent verification of demurrage fees and financing interest conversion `[entity_detail]`
+- Jinzhou Port customs efficiency: release of tax certificate ('出税单') slower than peer ports; overall clearing efficiency lower `[entity_detail]`
+- **Customs bond deposit requirement: 10% of guarantee amount** `[mechanism]`
+- **Tax conversion timing (example): 90% tax conversion on 7.20; final tax release on 8.15** `[mechanism]`
+
+### From `石油贸易手册(1)_315a27b5.txt` (2026-04-14)
+- **Singapore naphtha spot market cargo volumes traded vary between 25,000 barrels and 200,000 barrels** `[volume]`
+- **Japan has 7.6 million tonne/year of ethylene capacity using around 500,000 b/d of naphtha feedstock** `[specification]`
+- **South Korea's petrochemical complex has 4.9 million tonne/year of ethylene capacity importing 210,000 b/d of naphtha in 1997** `[volume]`
+- **Asia imported 500,000 b/d of naphtha in 1997, mainly from the Middle East** `[volume]`
+- **Asia's naphtha imports expected to be at least 400,000 b/d in 1998 despite economic crisis** `[volume]`
+- **Kuwait obtained a $6/tonne premium over Middle East quotes for term naphtha contracts in 1998** `[price]`
+- **Middle East producers (Saudi Arabia, Kuwait, UAE, Bahrain, Qatar, Yemen, Iran) supplied 17.5 million tonnes (430,000 b/d) of naphtha in 1997** `[volume]`
+- **Open specification naphtha contract specifies delivery of cargoes between 22,500 and 27,500 tonnes into Japan** `[specification]`
+- **Standard cargo volume hedged in open specification naphtha contract is 25,000 tonnes** `[specification]`
+- **Open specification naphtha has minimum 65 percent paraffins with density 0.650-0.740 specific gravity and maximum 1 percent olefins content** `[specification]`
+- **Light naphtha preferred by petrochemical end-users has specific gravity of 0.650-0.690 for high ethylene yields** `[specification]`
+- **Flexi-propane forward contract traded paper cargoes up to 10,000 tonnes for delivery ex-ship at Flushing** `[specification]`
+- **Flexi-propane market peak in 1990 traded up to 100 cargoes per month** `[volume]`
+- **Flexi-propane trading volumes fell to around 10 cargoes per month towards end of 1994** `[volume]`
+- **European O/S naphtha open-spec contract cargo size between 20,000 to 25,000 tonnes for C&F delivery in ARA range** `[specification]`
+- **European O/S naphtha minimum paraffin content requirement: 65 percent** `[specification]`
+- **Naphtha boiling points between 30 and 180 degrees centigrade** `[specification]`
+- **EFP example: Bonny Light crude priced at June Brent plus 50 cents/barrel premium for 500,000 barrels** `[price]`
+- **EFS example: Company B sells physical product priced at average Platt's NW Europe cif gasoil quotations plus $3/tonne quality premium** `[price]`
+- **Credit risk can add up to 10 cents per barrel to price difference between futures portfolio and swap agreement** `[formula]`
+
 ## Delivery Terms: FOB / CIF / CFR / DES
 
 Physical LPG contracts are structured around [[Incoterms in LPG Trading|Incoterms]] that define risk transfer, cost allocation, and operational responsibilities:

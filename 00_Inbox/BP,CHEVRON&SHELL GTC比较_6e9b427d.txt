@@ -1,0 +1,19 @@
+# Source: BP,CHEVRON&SHELL GTC比较.xlsx
+# Extracted: 2026-04-14 10:15
+# Characters: 1789
+
+
+=== Sheet: Sheet1 ===
+ | GTC比较 | CHEVRON 2014 | BP 2015 | BP2007 | SHELL 2010
+ | 贸易术语 | 没有DES，只有DAP | 有DES | 有DES | 有DES
+ | 关于delivered quantity | 1）如果卸到static shore tank，按照disport meter measurements，如果流量计not available，就按照shore tank gauging
+2）如果卸到active shore tank，按照discharged figure applied VEF | 只说in accordance with the good standard pratice at the discharge terminal at the time of discharge | 和CHEVRON 一样 | 和CHEVRON 一样
+ | 短量索赔 | 0.3%以上可以索赔 | 0.5%以上可以索赔 | 0.5%以上可以索赔 | 0.2%以上可以索赔
+ | 短量索赔time bar | 卸货后60天内notice，90天内交齐单据 | 卸货后45天内notice 并且交齐单据 |  | 卸货后60天内notice 并且交齐单据
+ | insurance | CFR: The responsibility for securing insurance, whether against marine or other risks, shall rest wholly with the Buyer. | CFR:Neither party shall have any obligation to the other party to secure cargo insurance, whether against marine or other risks. | 和CHEVRON 一样 | 和CHEVRON 一样
+ |  | CIF: SELLER负责，装港船舷-卸港船舷 | CIF: SELLER负责，装港船舷-卸港船舷 | CIF: SELLER负责，装港shore tank-卸港shore tank | CIF: SELLER负责，装港船舷-卸港船舷
+ |  | DAP:The responsibility for securing insurance, whether against marine or other risks, shall rest wholly with the Seller. | DES:没有insurance条款 | 和CHEVRON的DAP 一样 | 和CHEVRON的DAP 一样
+ | 滞期费相关 | 晚于delivery window到港，laytime起算时间是commencement of discharge | 晚于delivery window到港，laytime起算时间是NOR+36或commencement of discharge which is earlier | 和BP 2015一样 | 和BP 2015一样
+ |  | 没有adverse weather扣减 | adverse weather可以扣减一半 | 和BP 2015一样 | adverse weather全扣
+ |  | stripping没有扣减，COW原条款无法扣减但可以counter成not request by buyer, 原条款是If crude oil washing is performed at the request of the Buyer or other competent authority, any additional time shall count as Laytime or time on demurrage if the Vessel is on demurrage. | stripping max 3hrs，COW可以扣减 | 和BP 2015一样 | 和BP 2015一样
+ | 滞期time bar |  | 90 days | 180 days | 

@@ -1,0 +1,89 @@
+# Source: AWRP分享.pptx
+# Extracted: 2026-04-14 10:15
+# Characters: 1748
+
+
+--- Slide 1 ---
+ADDITIONAL WAR RISK PREMIUM
+额外战争险简介
+
+--- Slide 2 ---
+额外战争险名称
+AWRP-ADDITIONAL WAR RISK PREMIUM
+EWRP-EXTRA WAR RISK PREMIUM
+
+--- Slide 3 ---
+战争险&额外战争险
+战争险承保因下列原因造成的保险标的的损失或损害：1.战争、内战、叛乱以及任何交战方之间的敌对行为
+2.因上述行为引发的扣押、拘留、羁押等行为
+3.被遗弃的水雷、炸弹或其他战争武器
+这一部分的费率只有下面四种情况会提前终止：1.核战争
+2.联合国安理会常任理事国之间发生战争
+3.船舶被征购或征用4.保险人或被保险人提前7天通知即可解除保险
+（协会货物船舶战争险及罢工险定期保险条款，非原文）
+
+--- Slide 4 ---
+额外战争险
+伦敦保险市场联合战争险委员会JOINT WAR COMMITTEE （JWC）划定一个区域称为JOINT WAR LISTED AREAS(JWLA,)，进入该区域的船舶需要缴纳一定数额的“额外战争险保险费”。
+2019年，该委员会对原清单进行修改，发布了JWC HULL WAR, PIRACY, TERRORISM AND RELATED PERILS LISTED AREAS《联合战争险委员会船舶战争、海盗、恐怖主义风险和相关风险除外区域清单》增加了阿曼、阿联酋，东经58度以西的阿曼湾和波斯湾（阿拉伯湾）及附近水域。
+
+--- Slide 5 ---
+JOINT WAR LISTED AREAS
+
+--- Slide 6 ---
+额外战争险保险费用
+船舶价值*费率=保险费用
+保险费用水平参差不齐，主要原因是
+1.无统一标准，保险公司各自定价
+2. 国际政治局面变化，市场波动
+3. 各保险公司之间竞争
+
+--- Slide 7 ---
+LESS 50% RETURN TRANSIT
+K&R-KIDNAP AND RANSOM
+
+--- Slide 8 ---
+Claim金额：83,482.08 USD
+清船时预估金额：21,642 USD
+问题
+索要金额与预估金额差距大
+
+--- Slide 9 ---
+第一部分和第二部分不应该由我司承担
+
+--- Slide 10 ---
+
+--- Slide 11 ---
+供货商: 只需付（1） （3） （4） （5）部分
+我司：第（1）部分AWRP系船舶前往Fujairah为船加油产生，应当由船东承担
+供货商：按照GTC,应当由买方承担全部的AWRP
+我司：买家应当承担合理的AWRP。请船东解释前往Fujairah加油的AWRP由买方承担的原因
+供货商：船舶穿越gulf of Oman自Sikka到Mina Al Fahal，是为了到达装港。这些费用应该由租家承担
+我司：本航次中Sikka到Fujairah段目的是为船加油，自Fujairah到Mina Al Fahal才是阿曼装货的租家应负担保费的正常路线
+
+--- Slide 12 ---
+船东同意我司支付第三、四、五段AWRP,共计：9,464.29 USD
+
+--- Slide 13 ---
+
+--- Slide 14 ---
+不一定
+
+--- Slide 15 ---
+
+--- Slide 16 ---
+1.清船时向供货商索要AWRP 预估（重要）
+2.收到AWRP CLAIM后，如果发现CLAIM金额与预估金额存在差距，要求供货商解释，并辅之以详细的证据（保单、保险协议、计算过程，发票、租约、GTC）。
+
+--- Slide 17 ---
+AWRP中常用缩略语
+WAR AP-WAR ADDITIONAL PREMIUM
+H&M-HULL AND MACHINERY
+IV-INCREASED VALUE或INSURED VALUE(=H&M+ INCREASED VALUE)
+K&R-KIDNAP AND RANSOM
+NBC:NO CLAIM BONUS无索赔时保险公司给予的奖励
+
+--- Slide 18 ---
+THANK YOU
+谢谢观看
+20XX.12.12

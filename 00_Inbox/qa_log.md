@@ -26,3 +26,8 @@ status: evergreen
 - **Target**: [[Asian_Pressurized_LPG_Market]]
 - **Q**: 越南、马来西亚、菲律宾三国的LPG主要进口商和港口有哪些？各有什么特点？
 - **A**: 越南(~3.2M mt/年)：主要进口商为PV Gas、Saigon Petro、Hyosung Vina，核心港口Vung Tau/HCMC/Hai Phong，以加压+小型半冷冻终端为主，缺乏VLGC级设施。马来西亚：目前仍为净出口国(Petronas Bintulu副产LPG)，但成熟田年递减8-12%，预计2027年东南亚整体转为净进口；核心设施Bintulu(出口)和Pengerang(新兴)。菲律宾：Petron(25.1%份额)、Phoenix Petroleum、SL Harbour/Isla为主要进口商，Batangas为唯一深水接收港，其余群岛港口依赖加压小船货(2-4k MT)分销。三国均在Hengyi PMB 2-4天PGC航程辐射圈内。
+
+### 2026-04-14 09:55
+- **Target**: [[Trader_Daily_Workflow]]
+- **Q**: As a refinery-backed LPG trader selling pressurized cargo to SE Asia, what working sheets should I maintain in my daily routine?
+- **A**: Minimum 8 sheets: (1) Cargo Schedule + Tank Inventory — 2-3 week forward visibility on refinery output vs committed sales, tank-top dates; (2) Position & Hedge Book — physical longs vs AFEI swap shorts, net exposure by month, MTM P&L; (3) Daily Price Tracker — FEI, AFEI, CP, Brent, MB, regional delivered prices; (4) Netback Calculator — rank buyer CFR offers after deducting PGC freight ($40-80/mt), port costs, insurance; (5) Customer/Offer Log — term vs spot, pricing formula, credit terms, bid history; (6) P&L Attribution — decompose each cargo into flat price, basis, freight, timing; (7) Freight/Ship Availability — PGC coaster (3-5k cbm) open positions, TC vs voyage rates; (8) Market Intel — China PDH op rates, Vietnam/Philippines tender calendars, Bangladesh Mongla arrivals. Priority order driven by refinery seller's two core objectives: maximize realization price and manage tank-top risk.
